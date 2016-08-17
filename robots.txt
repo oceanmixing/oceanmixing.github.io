@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://oceanmixing.github.io/sitemap.xml
+Sitemap: https://oceanmixing.github.io/sitemap.xml

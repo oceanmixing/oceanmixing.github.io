@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://oceanmixing.github.io/</id>
+	<id>https://oceanmixing.github.io/</id>
 	<title>Ocean Mixing</title>
-	<updated>2016-08-17T09:08:53+01:00</updated>
+	<updated>2016-08-17T09:13:17+01:00</updated>
 
 	<subtitle>Ocean mixing at the Ocean and Earth Sciences, University of Soutahmpton</subtitle>
 
@@ -23,16 +23,16 @@
 		</author>
 	
 
-	<link href="http://oceanmixing.github.io/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://oceanmixing.github.io/" rel="alternate" type="text/html" />
+	<link href="https://oceanmixing.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://oceanmixing.github.io/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://oceanmixing.github.io/2016/postdoc-opportunities.html</id>
+			<id>https://oceanmixing.github.io/2016/postdoc-opportunities.html</id>
 			<title>Recruiting now! 3 postdoc positions, varied durations</title>
-			<link href="http://oceanmixing.github.io/2016/postdoc-opportunities.html" rel="alternate" type="text/html" title="Recruiting now! 3 postdoc positions, varied durations" />
+			<link href="https://oceanmixing.github.io/2016/postdoc-opportunities.html" rel="alternate" type="text/html" title="Recruiting now! 3 postdoc positions, varied durations" />
 			<updated>2016-08-11T00:00:00+01:00</updated>
 
 			
@@ -50,7 +50,7 @@
 				</author>
 			
 			<summary>Recruiting for posts associated with NERC-funded projects, including DynOPO and FreshWATERS.  Closing dates from 23 August to 7 Oct.</summary>
-			<content type="html" xml:base="http://oceanmixing.github.io/2016/postdoc-opportunities.html">&lt;p&gt;There are two  postdocs (shorter duration, &amp;lt;1 year) associated with the FreshWATERS project.  Due to the shorter duration, may only be useful for someone already located in the UK/Europe.&lt;/p&gt;
+			<content type="html" xml:base="https://oceanmixing.github.io/2016/postdoc-opportunities.html">&lt;p&gt;There are two  postdocs (shorter duration, &amp;lt;1 year) associated with the FreshWATERS project.  Due to the shorter duration, may only be useful for someone already located in the UK/Europe.&lt;/p&gt;
 
 &lt;p&gt;There is also a 3-year postdoc associated with the DynOPO project, involving field observations in the Southern Ocean.&lt;/p&gt;
 
@@ -73,9 +73,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://oceanmixing.github.io/2016/circle_plots.html</id>
+			<id>https://oceanmixing.github.io/2016/circle_plots.html</id>
 			<title>New perspective on the MOC variability</title>
-			<link href="http://oceanmixing.github.io/2016/circle_plots.html" rel="alternate" type="text/html" title="New perspective on the MOC variability" />
+			<link href="https://oceanmixing.github.io/2016/circle_plots.html" rel="alternate" type="text/html" title="New perspective on the MOC variability" />
 			<updated>2016-07-05T00:00:00+01:00</updated>
 
 			
@@ -93,7 +93,7 @@
 				</author>
 			
 			<summary>A bundle of circle plots of the MOC at 26N</summary>
-			<content type="html" xml:base="http://oceanmixing.github.io/2016/circle_plots.html">&lt;h1 id=&quot;circle-plots&quot;&gt;Circle plots&lt;/h1&gt;
+			<content type="html" xml:base="https://oceanmixing.github.io/2016/circle_plots.html">&lt;h1 id=&quot;circle-plots&quot;&gt;Circle plots&lt;/h1&gt;
 
 &lt;p&gt;For datasets with an annual cycle that may obscure an overall tendency, it can be useful to view the plot as circle, where each clock direction represents a month of the year.  &lt;a href=&quot;http://www.twitter.com/ed_hawkins&quot;&gt;@ed_hawkins&lt;/a&gt; has made a number of these with long time series of temperatures, and of Arctic sea ice.&lt;/p&gt;
 
@@ -145,9 +145,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://oceanmixing.github.io/2016/postdoc-opportunities.html</id>
+			<id>https://oceanmixing.github.io/2016/postdoc-opportunities.html</id>
 			<title>Recruiting now + to be advertised soon</title>
-			<link href="http://oceanmixing.github.io/2016/postdoc-opportunities.html" rel="alternate" type="text/html" title="Recruiting now + to be advertised soon" />
+			<link href="https://oceanmixing.github.io/2016/postdoc-opportunities.html" rel="alternate" type="text/html" title="Recruiting now + to be advertised soon" />
 			<updated>2016-06-23T00:00:00+01:00</updated>
 
 			
@@ -165,7 +165,7 @@
 				</author>
 			
 			<summary>Recruiting for several posts associated with NERC-funded projects, including DynOPO and FreshWATERS.  Closing dates from 24 July.</summary>
-			<content type="html" xml:base="http://oceanmixing.github.io/2016/postdoc-opportunities.html">&lt;h1 id=&quot;recruiting-for-several-posts&quot;&gt;Recruiting for several posts&lt;/h1&gt;
+			<content type="html" xml:base="https://oceanmixing.github.io/2016/postdoc-opportunities.html">&lt;h1 id=&quot;recruiting-for-several-posts&quot;&gt;Recruiting for several posts&lt;/h1&gt;
 
 &lt;p&gt;There is a postdoc opportunity at British Antarctic Survey for the DynOPO project (closing date: 24 July).&lt;/p&gt;
 
@@ -186,9 +186,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://oceanmixing.github.io/2016/quick-freshwaters-funded.html</id>
+			<id>https://oceanmixing.github.io/2016/quick-freshwaters-funded.html</id>
 			<title>New NERC project funded</title>
-			<link href="http://oceanmixing.github.io/2016/quick-freshwaters-funded.html" rel="alternate" type="text/html" title="New NERC project funded" />
+			<link href="https://oceanmixing.github.io/2016/quick-freshwaters-funded.html" rel="alternate" type="text/html" title="New NERC project funded" />
 			<updated>2016-06-01T00:00:00+01:00</updated>
 
 			
@@ -206,7 +206,7 @@
 				</author>
 			
 			<summary>New project funded to develop air-launch platform for ocean drifters</summary>
-			<content type="html" xml:base="http://oceanmixing.github.io/2016/quick-freshwaters-funded.html">&lt;h1 id=&quot;the-freshwaters-project-has-been-funded&quot;&gt;The FreshWATERS project has been funded!&lt;/h1&gt;
+			<content type="html" xml:base="https://oceanmixing.github.io/2016/quick-freshwaters-funded.html">&lt;h1 id=&quot;the-freshwaters-project-has-been-funded&quot;&gt;The FreshWATERS project has been funded!&lt;/h1&gt;
 </content>
 
 			
@@ -220,9 +220,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://oceanmixing.github.io/2015/autumn-teaching-schedule.html</id>
+			<id>https://oceanmixing.github.io/2015/autumn-teaching-schedule.html</id>
 			<title>Teaching schedule</title>
-			<link href="http://oceanmixing.github.io/2015/autumn-teaching-schedule.html" rel="alternate" type="text/html" title="Teaching schedule" />
+			<link href="https://oceanmixing.github.io/2015/autumn-teaching-schedule.html" rel="alternate" type="text/html" title="Teaching schedule" />
 			<updated>2015-09-29T00:00:00+01:00</updated>
 
 			
@@ -240,7 +240,7 @@
 				</author>
 			
 			<summary>New term started Mon, 28 Sep 2015</summary>
-			<content type="html" xml:base="http://oceanmixing.github.io/2015/autumn-teaching-schedule.html">&lt;h1 id=&quot;soes30106005-large-scale-ocean-processes&quot;&gt;SOES3010/6005: Large Scale Ocean Processes&lt;/h1&gt;
+			<content type="html" xml:base="https://oceanmixing.github.io/2015/autumn-teaching-schedule.html">&lt;h1 id=&quot;soes30106005-large-scale-ocean-processes&quot;&gt;SOES3010/6005: Large Scale Ocean Processes&lt;/h1&gt;
 
 &lt;p&gt;This module meets&lt;/p&gt;
 
@@ -290,9 +290,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://oceanmixing.github.io/2015/quick-bristol.html</id>
+			<id>https://oceanmixing.github.io/2015/quick-bristol.html</id>
 			<title>RAPID AMOC</title>
-			<link href="http://oceanmixing.github.io/2015/quick-bristol.html" rel="alternate" type="text/html" title="RAPID AMOC" />
+			<link href="https://oceanmixing.github.io/2015/quick-bristol.html" rel="alternate" type="text/html" title="RAPID AMOC" />
 			<updated>2015-07-21T00:00:00+01:00</updated>
 
 			
@@ -310,7 +310,7 @@
 				</author>
 			
 			<summary>Neela Morarji, Lena Schulze and Eleanor head to Bristol for the joint RAPID/USAMOC international meeting.</summary>
-			<content type="html" xml:base="http://oceanmixing.github.io/2015/quick-bristol.html">
+			<content type="html" xml:base="https://oceanmixing.github.io/2015/quick-bristol.html">
 </content>
 
 			
@@ -326,9 +326,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://oceanmixing.github.io/2015/quick-iugg.html</id>
+			<id>https://oceanmixing.github.io/2015/quick-iugg.html</id>
 			<title>IUGG Prague</title>
-			<link href="http://oceanmixing.github.io/2015/quick-iugg.html" rel="alternate" type="text/html" title="IUGG Prague" />
+			<link href="https://oceanmixing.github.io/2015/quick-iugg.html" rel="alternate" type="text/html" title="IUGG Prague" />
 			<updated>2015-07-01T00:00:00+01:00</updated>
 
 			
@@ -346,7 +346,7 @@
 				</author>
 			
 			<summary>Freya Garry, Lena Schulze and Eleanor present at IUGG general assembly in Prague.</summary>
-			<content type="html" xml:base="http://oceanmixing.github.io/2015/quick-iugg.html">
+			<content type="html" xml:base="https://oceanmixing.github.io/2015/quick-iugg.html">
 </content>
 
 			
@@ -362,9 +362,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html</id>
+			<id>https://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html</id>
 			<title>Using satellites to estimate the MOC</title>
-			<link href="http://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html" rel="alternate" type="text/html" title="Using satellites to estimate the MOC" />
+			<link href="https://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html" rel="alternate" type="text/html" title="Using satellites to estimate the MOC" />
 			<updated>2015-05-25T00:00:00+01:00</updated>
 
 			
@@ -382,7 +382,7 @@
 				</author>
 			
 			<summary>There are lots of exciting things that a 20-year time series of the MOC interannual variability could be used for!  This paper describes a method to estimate the Atlantic MOC at 26N since 1993.</summary>
-			<content type="html" xml:base="http://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html">&lt;p&gt;My new paper is now published at Geophysical Research Letters.&lt;/p&gt;
+			<content type="html" xml:base="https://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html">&lt;p&gt;My new paper is now published at Geophysical Research Letters.&lt;/p&gt;
 
 &lt;blockquote&gt;Frajka-Williams, E. (2015), Estimating the Atlantic overturning at 26°N using satellite altimetry and cable measurements, Geophys. Res. Lett., 42, doi:10.1002/2015GL063220.&lt;/blockquote&gt;
 
@@ -439,9 +439,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://oceanmixing.github.io/moc-from-space/</id>
+			<id>https://oceanmixing.github.io/moc-from-space/</id>
 			<title>MOC from Space</title>
-			<link href="http://oceanmixing.github.io/moc-from-space/" rel="alternate" type="text/html" title="MOC from Space" />
+			<link href="https://oceanmixing.github.io/moc-from-space/" rel="alternate" type="text/html" title="MOC from Space" />
 			<updated>2015-05-25T00:00:00+01:00</updated>
 
 			
@@ -459,7 +459,7 @@
 				</author>
 			
 			<summary>This page is a stub, but in the meantime, you can download the paper or data* or slides from my talk at IUGG using the links above.</summary>
-			<content type="html" xml:base="http://oceanmixing.github.io/moc-from-space/">&lt;div align=&quot;right&quot;&gt;Downloads: [&lt;a href=&quot;http://dx.doi.org/10.1002/2015GL063220&quot;&gt;paper&lt;/a&gt;] [&lt;a href=&quot;/data-form-moc-from-space/&quot;&gt;data form&lt;/a&gt;] [&lt;a href=&quot;http://www.slideshare.net/eleanorfrajka/2015-06talkmtgiuggefwmocfromspacewide&quot;&gt;slides – iugg&lt;/a&gt;]&lt;/div&gt;
+			<content type="html" xml:base="https://oceanmixing.github.io/moc-from-space/">&lt;div align=&quot;right&quot;&gt;Downloads: [&lt;a href=&quot;http://dx.doi.org/10.1002/2015GL063220&quot;&gt;paper&lt;/a&gt;] [&lt;a href=&quot;/data-form-moc-from-space/&quot;&gt;data form&lt;/a&gt;] [&lt;a href=&quot;http://www.slideshare.net/eleanorfrajka/2015-06talkmtgiuggefwmocfromspacewide&quot;&gt;slides – iugg&lt;/a&gt;]&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;*There are lots of exciting things that a 20-year time series of the MOC interannual variability could be used for! I’d be interested to hear your thoughts; find me on Twitter &lt;a href=&quot;http://twitter.com/eleanorfrajka&quot;&gt;@EleanorFrajka&lt;/a&gt; or drop me an e-mail &lt;a href=&quot;mailto:e.frajka-williams@soton.ac.uk&quot;&gt;e.frajka-williams@soton.ac.uk&lt;/a&gt;.&lt;/p&gt;
@@ -500,9 +500,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://oceanmixing.github.io/data-form-moc-from-space/</id>
+			<id>https://oceanmixing.github.io/data-form-moc-from-space/</id>
 			<title>Data MOC from Space</title>
-			<link href="http://oceanmixing.github.io/data-form-moc-from-space/" rel="alternate" type="text/html" title="Data MOC from Space" />
+			<link href="https://oceanmixing.github.io/data-form-moc-from-space/" rel="alternate" type="text/html" title="Data MOC from Space" />
 			<updated>2015-05-25T00:00:00+01:00</updated>
 
 			
@@ -520,7 +520,7 @@
 				</author>
 			
 			<summary>This page is a stub, but in the meantime, you can download the paper or data* or slides from my talk at IUGG using the links above.</summary>
-			<content type="html" xml:base="http://oceanmixing.github.io/data-form-moc-from-space/">&lt;p&gt;Frajka-Williams, E. (2015), Estimating the Atlantic overturning at 26°N using satellite altimetry and cable measurements. Geophys. Res. Lett., 42, 3458–3464. doi: 10.1002/2015GL063220.&lt;br /&gt;&lt;/p&gt;
+			<content type="html" xml:base="https://oceanmixing.github.io/data-form-moc-from-space/">&lt;p&gt;Frajka-Williams, E. (2015), Estimating the Atlantic overturning at 26°N using satellite altimetry and cable measurements. Geophys. Res. Lett., 42, 3458–3464. doi: 10.1002/2015GL063220.&lt;br /&gt;&lt;/p&gt;
 
 &lt;form action=&quot;https://getsimpleform.com/messages?form_api_token=b07854b4f5bfa69f03a24a0fd7b972ea&quot; method=&quot;post&quot;&gt;
   &lt;!-- the redirect_to is optional, the form will redirect to the referrer on submission --&gt;
