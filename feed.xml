@@ -97,69 +97,6 @@
 			</item>
 		
 			<item>
-				<title>Teaching schedule</title>
-				<link>https://oceanmixing.github.io/2015/autumn-teaching-schedule.html</link>
-				<pubDate>Tue, 29 Sep 2015 00:00:00 +0100</pubDate>
-				<description>&lt;h1 id=&quot;soes30106005-large-scale-ocean-processes&quot;&gt;SOES3010/6005: Large Scale Ocean Processes&lt;/h1&gt;
-
-&lt;p&gt;This module meets&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Thursdays 1-3pm in Lab T (6th floor, near node 6) for Tutorials&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fridays 9-11am in Lab T for Lectures&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This first week will have a slightly different pattern, so please show up Thursday ready for class.  The last class before Christmas will be Dec 11, and there is class Jan 7 and 8.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; There are no class meetings in week 6 (so nothing on Nov 5th or Nov 6th) due to Boat Week for the MSc students.&lt;/p&gt;
-
-&lt;p&gt;There are also two computer lab sessions: Tuesday Oct 20 at 2-3pm, and Tuesday Nov 10 at 2-3pm in the ground floor computer lab at NOCS: 121-02.   These are help sessions for a computer practical that is to be completed on your own time.  (More information to come.)&lt;/p&gt;
-
-&lt;p&gt;If you are a PhD student and would like to sit in on the class, please e-mail me your username (e.g., mine is eefw1u08) and I’ll add you to the Blackboard course as a guest.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;soes2025-methods-in-oceanography&quot;&gt;SOES2025: Methods in Oceanography&lt;/h1&gt;
-
-&lt;p&gt;This module meets&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fridays 11am-1pm in the Charnock Lecture Theatre&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Additional practicals to include GIS, Matlab, processing SeaBird CTD data, and more.  Please check your individual timetable for meeting times.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I teach on remote sensing during weeks 8, 9, 10 and 15, and on Matlab in weeks 4, 5, 7, 11 and 15.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">https://oceanmixing.github.io/2015/autumn-teaching-schedule.html</guid>
-			</item>
-		
-			<item>
-				<title>RAPID AMOC</title>
-				<link>https://oceanmixing.github.io/2015/quick-bristol.html</link>
-				<pubDate>Tue, 21 Jul 2015 00:00:00 +0100</pubDate>
-				<description>
-</description>
-				<guid isPermaLink="true">https://oceanmixing.github.io/2015/quick-bristol.html</guid>
-			</item>
-		
-			<item>
-				<title>IUGG Prague</title>
-				<link>https://oceanmixing.github.io/2015/quick-iugg.html</link>
-				<pubDate>Wed, 01 Jul 2015 00:00:00 +0100</pubDate>
-				<description>
-</description>
-				<guid isPermaLink="true">https://oceanmixing.github.io/2015/quick-iugg.html</guid>
-			</item>
-		
-			<item>
 				<title>Using satellites to estimate the MOC</title>
 				<link>https://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html</link>
 				<pubDate>Mon, 25 May 2015 00:00:00 +0100</pubDate>
@@ -284,6 +221,15 @@
 --&gt;
 </description>
 				<guid isPermaLink="true">https://oceanmixing.github.io/data-form-moc-from-space/</guid>
+			</item>
+		
+			<item>
+				<title>DynOPO cruise #1</title>
+				<link>https://oceanmixing.github.io/2015/quick-dynopo-ends.html</link>
+				<pubDate>Sat, 18 Apr 2015 00:00:00 +0100</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2015/quick-dynopo-ends.html</guid>
 			</item>
 		
 	</channel>

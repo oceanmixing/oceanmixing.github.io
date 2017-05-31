@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://oceanmixing.github.io/</id>
 	<title>Ocean Mixing</title>
-	<updated>2016-08-17T09:36:49+01:00</updated>
+	<updated>2017-05-31T15:23:53+01:00</updated>
 
 	<subtitle>Ocean mixing at the Ocean and Earth Sciences, University of Soutahmpton</subtitle>
 
@@ -220,148 +220,6 @@
 		</entry>
 	
 		<entry>
-			<id>https://oceanmixing.github.io/2015/autumn-teaching-schedule.html</id>
-			<title>Teaching schedule</title>
-			<link href="https://oceanmixing.github.io/2015/autumn-teaching-schedule.html" rel="alternate" type="text/html" title="Teaching schedule" />
-			<updated>2015-09-29T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>New term started Mon, 28 Sep 2015</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2015/autumn-teaching-schedule.html">&lt;h1 id=&quot;soes30106005-large-scale-ocean-processes&quot;&gt;SOES3010/6005: Large Scale Ocean Processes&lt;/h1&gt;
-
-&lt;p&gt;This module meets&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Thursdays 1-3pm in Lab T (6th floor, near node 6) for Tutorials&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fridays 9-11am in Lab T for Lectures&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This first week will have a slightly different pattern, so please show up Thursday ready for class.  The last class before Christmas will be Dec 11, and there is class Jan 7 and 8.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; There are no class meetings in week 6 (so nothing on Nov 5th or Nov 6th) due to Boat Week for the MSc students.&lt;/p&gt;
-
-&lt;p&gt;There are also two computer lab sessions: Tuesday Oct 20 at 2-3pm, and Tuesday Nov 10 at 2-3pm in the ground floor computer lab at NOCS: 121-02.   These are help sessions for a computer practical that is to be completed on your own time.  (More information to come.)&lt;/p&gt;
-
-&lt;p&gt;If you are a PhD student and would like to sit in on the class, please e-mail me your username (e.g., mine is eefw1u08) and I’ll add you to the Blackboard course as a guest.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;soes2025-methods-in-oceanography&quot;&gt;SOES2025: Methods in Oceanography&lt;/h1&gt;
-
-&lt;p&gt;This module meets&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fridays 11am-1pm in the Charnock Lecture Theatre&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Additional practicals to include GIS, Matlab, processing SeaBird CTD data, and more.  Please check your individual timetable for meeting times.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I teach on remote sensing during weeks 8, 9, 10 and 15, and on Matlab in weeks 4, 5, 7, 11 and 15.&lt;/p&gt;
-</content>
-
-			
-				<category term="teaching" />
-			
-			
-				<category term="lsop" />
-			
-
-			<published>2015-09-29T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/2015/quick-bristol.html</id>
-			<title>RAPID AMOC</title>
-			<link href="https://oceanmixing.github.io/2015/quick-bristol.html" rel="alternate" type="text/html" title="RAPID AMOC" />
-			<updated>2015-07-21T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>Neela Morarji, Lena Schulze and Eleanor head to Bristol for the joint RAPID/USAMOC international meeting.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2015/quick-bristol.html">
-</content>
-
-			
-				<category term="quick" />
-			
-			
-				<category term="datasets" />
-			
-				<category term="amoc" />
-			
-
-			<published>2015-07-21T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/2015/quick-iugg.html</id>
-			<title>IUGG Prague</title>
-			<link href="https://oceanmixing.github.io/2015/quick-iugg.html" rel="alternate" type="text/html" title="IUGG Prague" />
-			<updated>2015-07-01T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>Freya Garry, Lena Schulze and Eleanor present at IUGG general assembly in Prague.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2015/quick-iugg.html">
-</content>
-
-			
-				<category term="quick" />
-			
-			
-				<category term="datasets" />
-			
-				<category term="amoc" />
-			
-
-			<published>2015-07-01T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
 			<id>https://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html</id>
 			<title>Using satellites to estimate the MOC</title>
 			<link href="https://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html" rel="alternate" type="text/html" title="Using satellites to estimate the MOC" />
@@ -565,6 +423,38 @@
 			
 
 			<published>2015-05-25T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2015/quick-dynopo-ends.html</id>
+			<title>DynOPO cruise #1</title>
+			<link href="https://oceanmixing.github.io/2015/quick-dynopo-ends.html" rel="alternate" type="text/html" title="DynOPO cruise #1" />
+			<updated>2015-04-18T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>Successful end of first field campaign for DynOPO!  5 weeks at sea on the RRS JCR; Lots of instruments deployed.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2015/quick-dynopo-ends.html">
+</content>
+
+			
+				<category term="quick" />
+			
+			
+
+			<published>2015-04-18T00:00:00+01:00</published>
 		</entry>
 	
 </feed>
