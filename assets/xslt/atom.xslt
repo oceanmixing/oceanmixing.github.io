@@ -174,19 +174,31 @@
 
           
           
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
             
             
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a href="https://oceanmixing.github.io/blog/">Lablog</a>
+                <a href="https://oceanmixing.github.io/blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://oceanmixing.github.io/blog/archive/">Lablog Archive</a></li>
+                      <li><a href="https://oceanmixing.github.io/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
                   
@@ -265,6 +277,21 @@
 
             
             
+              <li><a href="https://oceanmixing.github.io/projects/">Projects</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
               <li><a href="https://oceanmixing.github.io/people/">Group</a></li>
               <li class="divider"></li>
 
@@ -281,6 +308,21 @@
             
             
               <li><a href="https://oceanmixing.github.io/opportunities/">Opportunities</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="https://oceanmixing.github.io/justforfun/">Just for fun</a></li>
               <li class="divider"></li>
 
             
