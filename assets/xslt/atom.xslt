@@ -27,7 +27,7 @@
 
   
 	
-	<meta name="description" content="Ocean mixing at the Ocean and Earth Sciences, University of Soutahmpton" />
+	<meta name="description" content="Ocean dynamics and mixing group at the Ocean and Earth Sciences, University of Soutahmpton" />
 
 	
 
@@ -110,9 +110,9 @@
 	<meta property="og:locale" content="en_EN" />
 	
 	<meta property="og:title" content="Atom Feed (Styled)" />
-	<meta property="og:description" content="Ocean mixing at the Ocean and Earth Sciences, University of Soutahmpton" />
+	<meta property="og:description" content="Ocean dynamics and mixing group at the Ocean and Earth Sciences, University of Soutahmpton" />
 	<meta property="og:url" content="https://oceanmixing.github.io//assets/xslt/atom.xslt" />
-	<meta property="og:site_name" content="Ocean Mixing" />
+	<meta property="og:site_name" content="Ocean Dynamics and Mixing" />
 	
 
 	
@@ -131,12 +131,12 @@
 	<body id="top-of-page">
 		<xsl:text disable-output-escaping="yes"><![CDATA[
 		<div id="navigation2">
-<h2 class="font-size-h3 t10"><a href="/">Ocean Mixing - <em>Ocean and Earth Science, University of Southampton</em></a></h2>
+<h2 class="font-size-h3 t10"><a href="/">Ocean Dynamics and Mixing - <em>Ocean and Earth Science, University of Southampton</em></a></h2>
 </div><div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://oceanmixing.github.io" class="icon-tree"> Ocean Mixing</a></h1>
+      <h1 class="show-for-small-only"><a href="https://oceanmixing.github.io" class="icon-tree"> Ocean Dynamics and Mixing</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -358,8 +358,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://oceanmixing.github.io" title="Ocean Mixing – Ocean and Earth Science, University of Southampton">
-				<img src="https://oceanmixing.github.io/assets/img/logo.png" alt="Ocean Mixing – Ocean and Earth Science, University of Southampton">
+			<a id="logo" href="https://oceanmixing.github.io" title="Ocean Dynamics and Mixing – Ocean and Earth Science, University of Southampton">
+				<img src="https://oceanmixing.github.io/assets/img/logo.png" alt="Ocean Dynamics and Mixing – Ocean and Earth Science, University of Southampton">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -436,7 +436,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              Ocean mixing at the Ocean and Earth Sciences, University of Soutahmpton
+              Ocean dynamics and mixing group at the Ocean and Earth Sciences, University of Soutahmpton
               <a href="https://oceanmixing.github.io/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->

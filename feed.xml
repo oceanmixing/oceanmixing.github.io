@@ -3,8 +3,8 @@
 <?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Ocean Mixing</title>
-		<description>Ocean mixing at the Ocean and Earth Sciences, University of Soutahmpton</description>
+		<title>Ocean Dynamics and Mixing</title>
+		<description>Ocean dynamics and mixing group at the Ocean and Earth Sciences, University of Soutahmpton</description>
 		<link>https://oceanmixing.github.io/</link>
 		<atom:link href="https://oceanmixing.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
