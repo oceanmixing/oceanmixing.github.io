@@ -191,14 +191,14 @@
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a href="https://oceanmixing.github.io/blog/">Blog</a>
+                <a href="https://oceanmixing.github.io/news/">News</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://oceanmixing.github.io/blog/archive/">Blog Archive</a></li>
+                      <li><a href="https://oceanmixing.github.io/news/archive/">News Archive</a></li>
                     
                   </ul>
                   
