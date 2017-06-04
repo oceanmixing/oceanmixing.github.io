@@ -4,7 +4,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Ocean Dynamics and Mixing</title>
-		<description>Ocean dynamics and mixing group at the Ocean and Earth Sciences, University of Soutahmpton</description>
+		<description>Ocean dynamics and mixing group at the Ocean and Earth Science, University of Southampton</description>
 		<link>https://oceanmixing.github.io/</link>
 		<atom:link href="https://oceanmixing.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
