@@ -4,9 +4,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://oceanmixing.github.io/</id>
 	<title>Ocean Dynamics and Mixing</title>
-	<updated>2017-06-04T15:43:20+01:00</updated>
+	<updated>2017-06-04T16:06:48+01:00</updated>
 
-	<subtitle>Ocean dynamics and mixing group at the Ocean and Earth Science, University of Southampton</subtitle>
+	<subtitle>The Ocean Dynamics and Mixing group at the University of Southampton is comprised of faculty, postdoctoral fellows and students. The focus of our group is on ocean observations with the aim of understanding these measurements and comparing with theoretical understandings of the ocean.</subtitle>
 
 	
 		
@@ -28,6 +28,244 @@
 
 	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/quick-liege-turbulence.html</id>
+			<title>MerMEED results</title>
+			<link href="https://oceanmixing.github.io/2017/quick-liege-turbulence.html" rel="alternate" type="text/html" title="MerMEED results" />
+			<updated>2017-05-22T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>Heading to Liege Turbulence meeting - Gwyn Evans, Eleanor &amp; meeting up w/Louis Clement.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-liege-turbulence.html">
+</content>
+
+			
+				<category term="quick" />
+			
+			
+
+			<published>2017-05-22T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/quick-freshwaters-launch.html</id>
+			<title>FreshWATERS balloon launch</title>
+			<link href="https://oceanmixing.github.io/2017/quick-freshwaters-launch.html" rel="alternate" type="text/html" title="FreshWATERS balloon launch" />
+			<updated>2017-05-19T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>Launching a balloon for the FreshWATERS project.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-freshwaters-launch.html">&lt;p&gt;Photos of the launch (and recovery) in &lt;a href=&quot;/galleries/freshwaters/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="quick" />
+			
+			
+
+			<published>2017-05-19T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/quick-boaty-mcboatface-animation.html</id>
+			<title>Animating Boaty McBoatface (Autosub Long Range)</title>
+			<link href="https://oceanmixing.github.io/2017/quick-boaty-mcboatface-animation.html" rel="alternate" type="text/html" title="Animating Boaty McBoatface (Autosub Long Range)" />
+			<updated>2017-05-17T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>Coding a 3-d animation in Matlab</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-boaty-mcboatface-animation.html">&lt;p&gt;As a side project during the DynOPO cruise, I worked on coding an animation of Boaty McBoatface in Matlab along with the MARS/Autosub engineer, &lt;a href=&quot;http://noc.ac.uk/about-us/staff/robtemp&quot;&gt;Rob Templeton&lt;/a&gt;.  If you’re curious about creating 3-d visualisations of (radially-symmetric) objects in Matlab, here’s an example (embedded from Vimeo):&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/217388302&quot; width=&quot;640&quot; height=&quot;427&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/217388302&quot;&gt;Building Boaty using Matlab&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user41789551&quot;&gt;Eleanor Frajka-Williams&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note: Resolution improves if you pop it out/full screen the video.&lt;/p&gt;
+
+&lt;p&gt;Here’s the link: &lt;a href=&quot;https://vimeo.com/user41789551/building-boaty-using-matlab&quot;&gt;https://vimeo.com/user41789551/building-boaty-using-matlab&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="quick" />
+			
+			
+
+			<published>2017-05-17T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/quick-dynopo-ends.html</id>
+			<title>End of DynOPO cruise #2</title>
+			<link href="https://oceanmixing.github.io/2017/quick-dynopo-ends.html" rel="alternate" type="text/html" title="End of DynOPO cruise #2" />
+			<updated>2017-05-08T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>We made port in Montevideo on May 8.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-dynopo-ends.html">&lt;p&gt;The Dynamics of the Orkney Passage 2017 cruise was from 17 March to 8 May, 2017.  Photos have been uploaded to &lt;a href=&quot;/galleries/jr16005/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="quick" />
+			
+			
+
+			<published>2017-05-08T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/quick-egu-early-career.html</id>
+			<title>EGU Early Career award</title>
+			<link href="https://oceanmixing.github.io/2017/quick-egu-early-career.html" rel="alternate" type="text/html" title="EGU Early Career award" />
+			<updated>2017-04-28T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>Eleanor was awarded with the Outstanding Early Career Scientist award for Ocean Sciences 2017</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-egu-early-career.html">&lt;p&gt;At the 2017 European Geophysical Union general assembly, Eleanor Frajka-Williams was awarded with the 
+&lt;a href=&quot;http://www.egu.eu/awards-medals/division-outstanding-ecs-award/2017/&quot;&gt;Outstanding Early Career Scientist award&lt;/a&gt; for Ocean Sciences.  Unfortunately, she was in the Southern Ocean and couldn’t be there to receive the award in person.&lt;/p&gt;
+</content>
+
+			
+				<category term="quick" />
+			
+			
+
+			<published>2017-04-28T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2016/quick-mermeed-photos-copy.html</id>
+			<title>MerMEED first cruise</title>
+			<link href="https://oceanmixing.github.io/2016/quick-mermeed-photos-copy.html" rel="alternate" type="text/html" title="MerMEED first cruise" />
+			<updated>2016-12-08T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>7 days off the Bahamas in Dec 2016.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2016/quick-mermeed-photos-copy.html">&lt;p&gt;Completed the first small boat cruise for the MerMEED project.  70 VMP profiles collected.  Photos in &lt;a href=&quot;/galleries/ws16336/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="quick" />
+			
+			
+
+			<published>2016-12-08T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2016/Atlantic-eddies.html</id>
+			<title>Eddy watch in the Bahamas</title>
+			<link href="https://oceanmixing.github.io/2016/Atlantic-eddies.html" rel="alternate" type="text/html" title="Eddy watch in the Bahamas" />
+			<updated>2016-08-25T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>We&#39;re on eddy watch for the project MerMEED</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2016/Atlantic-eddies.html">&lt;p&gt;We are now preparing for our first field expedition in the Bahamas for the project MerMEED, watching the near real-time altimetry for the development and progression of eddies in the Atlantic.&lt;/p&gt;
+
+&lt;p&gt;Follow the project on &lt;a href=&quot;https://twitter.com/mermeeduk&quot;&gt;https://twitter.com/mermeeduk&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="research" />
+			
+			
+				<category term="freshwaters" />
+			
+				<category term="dynopo" />
+			
+
+			<published>2016-08-25T00:00:00+01:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://oceanmixing.github.io/2016/postdoc-opportunities.html</id>
@@ -183,278 +421,6 @@
 			
 
 			<published>2016-06-23T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/2016/quick-freshwaters-funded.html</id>
-			<title>New NERC project funded</title>
-			<link href="https://oceanmixing.github.io/2016/quick-freshwaters-funded.html" rel="alternate" type="text/html" title="New NERC project funded" />
-			<updated>2016-06-01T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>New project funded to develop air-launch platform for ocean drifters</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2016/quick-freshwaters-funded.html">&lt;h1 id=&quot;the-freshwaters-project-has-been-funded&quot;&gt;The FreshWATERS project has been funded!&lt;/h1&gt;
-</content>
-
-			
-				<category term="quick" />
-			
-			
-				<category term="freshwaters" />
-			
-
-			<published>2016-06-01T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html</id>
-			<title>Using satellites to estimate the MOC</title>
-			<link href="https://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html" rel="alternate" type="text/html" title="Using satellites to estimate the MOC" />
-			<updated>2015-05-25T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>There are lots of exciting things that a 20-year time series of the MOC interannual variability could be used for!  This paper describes a method to estimate the Atlantic MOC at 26N since 1993.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html">&lt;p&gt;My new paper is now published at Geophysical Research Letters.&lt;/p&gt;
-
-&lt;blockquote&gt;Frajka-Williams, E. (2015), Estimating the Atlantic overturning at 26°N using satellite altimetry and cable measurements, Geophys. Res. Lett., 42, doi:10.1002/2015GL063220.&lt;/blockquote&gt;
-
-&lt;!--&lt;em&gt;Correlation coefficient between SLA and upper mid-ocean transport at 26.5°N. Red indicates positive correlation, and blue negative. Stippled regions are significant at the 95% level. Mean dynamic ocean topography is overlaid with black contours (contour interval, 20 cm).&lt;/em&gt;--&gt;
-&lt;p&gt;&lt;img align=&quot;right&quot; src=&quot;/images/ssh_corr_rev.png&quot; width=&quot;300&quot; /&gt;   It uses the 10-year time series of data from RAPID at 26N in the Atlantic to determine a relationship between sea level variability in the Atlantic and the top 1000-m transport estimated from moorings. The main result is a simple statistical correlation between this transport time series, on interannual timescales, and the sea surface height in the western part of the subtropical North Atlantic.&lt;/p&gt;
-
-&lt;p&gt;The correlation is quite strong, as can be seen in Fig. 2 of the paper:&lt;/p&gt;
-
-&lt;p&gt;&lt;img align=&quot;center&quot; width=&quot;600&quot; src=&quot;/images/umo_proxy_rev.png&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;(left) Time series of UMO transport from RAPID (pink) and the SLA proxy, UMO* (black) based on linear regression between UMO and SLA. Gray shading indicates uncertainty associated with the slope of the regression. The dashed grey lines mark the mean of UMO* over the two decades, 1993–2003 and 2004–2014. (right) Scatterplot between the SLA centered at 30°N, 70°W and UMO transport (r = 0.92), with the best fit linear regression overlaid and 95% confidence.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img align=&quot;right&quot; width=&quot;400&quot; src=&quot;/images/moc_recon_rev.png&quot; /&gt; Since the MOC at 26N is estimated as the sum of three components, MOC=Ek+FC+UMO, where Ek = surface Ekman transport, FC = Florida Current transport and UMO = upper mid-ocean transport (roughly the north-south volume transport in the top 1100 m between the Bahamas and the Canary Islands), if we can estimate the UMO from altimetry and we have estimates of the Ek and FC from surface wind products and the Florida Cable measurements, then we can estimate the MOC back in time.&lt;/p&gt;
-
-&lt;p&gt;The main results of the paper are that&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;On interannual timescales, the transbasin transport at 26N is primarily governed by changes in the ocean at the western boundary (near the Bahamas) and not in the east&lt;/li&gt;
-  &lt;li&gt;There is a strong relationship between spatially-smoothed sea surface height anomalies and the transbasin transport&lt;/li&gt;
-  &lt;li&gt;Using this relationship, we can estimate the interannual variability of the MOC since 1992. While the downturn identified in Smeed et al. (2014) in Ocean Science does not appear to be a continuation of a longer-term trend, according to the estimates here, there does appear to be a reduction in the overall strength of the AMOC from before 2004 to present.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This paper is open access (free to the public) at GRL, so you can read the whole thing here: &lt;a href=&quot;http://dx.doi.org/10.1002/2015GL063220&quot;&gt;http://dx.doi.org/10.1002/2015GL063220&lt;/a&gt;&lt;/p&gt;
-
-&lt;div align=&quot;right&quot;&gt;Looking for the slides or data? Check &lt;a href=&quot;/moc-from-space/&quot;&gt;Moc-from-Space&lt;/a&gt;.&lt;/div&gt;
-
-&lt;!--{: .t60 }
-
-
-
-
-
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-
-  
-&lt;/ul&gt;
-
---&gt;
-
-</content>
-
-			
-				<category term="paper" />
-			
-			
-				<category term="amoc" />
-			
-
-			<published>2015-05-25T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/moc-from-space/</id>
-			<title>MOC from Space</title>
-			<link href="https://oceanmixing.github.io/moc-from-space/" rel="alternate" type="text/html" title="MOC from Space" />
-			<updated>2015-05-25T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>This page is a stub, but in the meantime, you can download the paper or data* or slides from my talk at IUGG using the links above.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/moc-from-space/">&lt;div align=&quot;right&quot;&gt;Downloads: [&lt;a href=&quot;http://dx.doi.org/10.1002/2015GL063220&quot;&gt;paper&lt;/a&gt;] [&lt;a href=&quot;/data-form-moc-from-space/&quot;&gt;data form&lt;/a&gt;] [&lt;a href=&quot;http://www.slideshare.net/eleanorfrajka/2015-06talkmtgiuggefwmocfromspacewide&quot;&gt;slides – iugg&lt;/a&gt;]&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;*There are lots of exciting things that a 20-year time series of the MOC interannual variability could be used for! I’d be interested to hear your thoughts; find me on Twitter &lt;a href=&quot;http://twitter.com/eleanorfrajka&quot;&gt;@EleanorFrajka&lt;/a&gt; or drop me an e-mail &lt;a href=&quot;mailto:e.frajka-williams@soton.ac.uk&quot;&gt;e.frajka-williams@soton.ac.uk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Frajka-Williams, E. (2015), Estimating the Atlantic overturning at 26°N using satellite altimetry and cable measurements. Geophys. Res. Lett., 42, 3458–3464. doi: 10.1002/2015GL063220.&lt;/p&gt;
-
-&lt;div align=&quot;right&quot;&gt;...Or return to &lt;a href=&quot;/2015/using-satellite-data-to-estimate-the-moc/&quot;&gt;Using satellites to estimate the MOC&lt;/a&gt;&lt;/div&gt;
-&lt;!--{: .t60 }
-
-
-
-
-
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-
-  
-&lt;/ul&gt;
-
---&gt;
-
-</content>
-
-			
-				<category term="paper" />
-			
-			
-				<category term="datasets" />
-			
-				<category term="amoc" />
-			
-
-			<published>2015-05-25T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/data-form-moc-from-space/</id>
-			<title>Data MOC from Space</title>
-			<link href="https://oceanmixing.github.io/data-form-moc-from-space/" rel="alternate" type="text/html" title="Data MOC from Space" />
-			<updated>2015-05-25T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>This page is a stub, but in the meantime, you can download the paper or data* or slides from my talk at IUGG using the links above.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/data-form-moc-from-space/">&lt;p&gt;Frajka-Williams, E. (2015), Estimating the Atlantic overturning at 26°N using satellite altimetry and cable measurements. Geophys. Res. Lett., 42, 3458–3464. doi: 10.1002/2015GL063220.&lt;br /&gt;&lt;/p&gt;
-
-&lt;form action=&quot;https://getsimpleform.com/messages?form_api_token=b07854b4f5bfa69f03a24a0fd7b972ea&quot; method=&quot;post&quot;&gt;
-  &lt;!-- the redirect_to is optional, the form will redirect to the referrer on submission --&gt;
-  &lt;input type=&quot;hidden&quot; name=&quot;redirect_to&quot; value=&quot;http://figshare.com/s/e3e68d16294f11e5a89706ec4b8d1f61&quot; /&gt;
-  &lt;!-- all your input fields here.... --&gt;
-  Name:
-  &lt;input type=&quot;Name&quot; name=&quot;name&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
-  Email:
-  &lt;input type=&quot;E-mail&quot; name=&quot;email&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
-  Brief note about what you plan to do with the data:
-  &lt;textarea name=&quot;message&quot;&gt;&lt;/textarea&gt;
-  &lt;input type=&quot;submit&quot; value=&quot;to the data&quot; /&gt;
-&lt;/form&gt;
-
-&lt;div align=&quot;right&quot;&gt;...Or return to &lt;a href=&quot;/2015/using-satellite-data-to-estimate-the-moc/&quot;&gt;Using satellites to estimate the MOC&lt;/a&gt;&lt;/div&gt;
-&lt;!--{: .t60 }
-
-
-
-
-
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-
-  
-&lt;/ul&gt;
-
---&gt;
-</content>
-
-			
-				<category term="paper" />
-			
-			
-				<category term="datasets" />
-			
-				<category term="amoc" />
-			
-
-			<published>2015-05-25T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/2015/quick-dynopo-ends.html</id>
-			<title>DynOPO cruise #1</title>
-			<link href="https://oceanmixing.github.io/2015/quick-dynopo-ends.html" rel="alternate" type="text/html" title="DynOPO cruise #1" />
-			<updated>2015-04-18T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>Successful end of first field campaign for DynOPO!  5 weeks at sea on the RRS JCR; Lots of instruments deployed.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2015/quick-dynopo-ends.html">
-</content>
-
-			
-				<category term="quick" />
-			
-			
-
-			<published>2015-04-18T00:00:00+01:00</published>
 		</entry>
 	
 </feed>
