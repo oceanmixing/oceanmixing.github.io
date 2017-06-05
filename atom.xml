@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://oceanmixing.github.io/</id>
 	<title>Ocean Dynamics and Mixing</title>
-	<updated>2017-06-05T13:06:14+01:00</updated>
+	<updated>2017-06-05T16:00:06+01:00</updated>
 
 	<subtitle>The Ocean Dynamics and Mixing group at the University of Southampton is comprised of faculty, postdoctoral fellows and students. The focus of our group is on ocean observations with the aim of understanding these measurements and comparing with theoretical understandings of the ocean.</subtitle>
 
@@ -50,11 +50,17 @@
 				</author>
 			
 			<summary>Heading to Liege Turbulence meeting - Gwyn Evans, Eleanor &amp; meeting up w/Louis Clement.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-liege-turbulence.html">
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-liege-turbulence.html">&lt;p&gt;&lt;img src=&quot;/images/funstuff/liege_train.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A few of us went to the &lt;a href=&quot;http://labos.ulg.ac.be/gher/home/colloquium/colloquium-2017/&quot;&gt;49th Liege Colloquium&lt;/a&gt; which was the 3rd edition of Marine Turbulence.  It was a lovely workshop-sized conference in a beautiful venue.  Gwyn and Eleanor presented early results from the &lt;a href=&quot;/projects/mermeed/&quot;&gt;MerMEED&lt;/a&gt; project, and Xialong and Christian from OSMOSIS.&lt;/p&gt;
 </content>
 
 			
 				<category term="quick" />
+			
+				<category term="conference" />
+			
+				<category term="mermeed" />
 			
 			
 
@@ -81,8 +87,12 @@
 					
 				</author>
 			
-			<summary>Launching a balloon for the FreshWATERS project.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-freshwaters-launch.html">&lt;p&gt;Photos of the launch (and recovery) in &lt;a href=&quot;/galleries/freshwaters/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
+			<summary>Launching a balloon for the FreshWATERS project, early in the morning on 19 May 2017.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-freshwaters-launch.html">&lt;p&gt;&lt;img src=&quot;/images/freshwaters/IMG_5859.jpg&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We had one of our test balloon launches for the FreshWATERS project in May.  It required an early start (before 6am) followed by a car chase of the GPS coordinates given by the balloon.&lt;/p&gt;
+
+&lt;p&gt;Photos of the launch (and recovery) in &lt;a href=&quot;/galleries/freshwaters/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
 </content>
 
 			
@@ -113,7 +123,7 @@
 					
 				</author>
 			
-			<summary>Coding a 3-d animation in Matlab</summary>
+			<summary>As a bit of a side project during the DynOPO cruise, we coded up a 3-d animation of the 3rd mission of Autosub Long Range using Matlab.</summary>
 			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-boaty-mcboatface-animation.html">&lt;p&gt;As a side project during the DynOPO cruise, I worked on coding an animation of Boaty McBoatface in Matlab along with the MARS/Autosub engineer, &lt;a href=&quot;http://noc.ac.uk/about-us/staff/robtemp&quot;&gt;Rob Templeton&lt;/a&gt;.  If you’re curious about creating 3-d visualisations of (radially-symmetric) objects in Matlab, here’s an example (embedded from Vimeo):&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/217388302&quot; width=&quot;640&quot; height=&quot;427&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -125,7 +135,9 @@
 </content>
 
 			
-				<category term="quick" />
+				<category term="Matlab" />
+			
+				<category term="DynOPO" />
 			
 			
 
@@ -152,8 +164,12 @@
 					
 				</author>
 			
-			<summary>We made port in Montevideo on May 8.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-dynopo-ends.html">&lt;p&gt;The Dynamics of the Orkney Passage 2017 cruise was from 17 March to 8 May, 2017.  Photos have been uploaded to &lt;a href=&quot;/galleries/jr16005/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
+			<summary>We made port in Montevideo on 8 May - after setting sail from Punta Arenas, Chile on 17 March!  52 days at sea.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-dynopo-ends.html">&lt;p&gt;The Dynamics of the Orkney Passage 2017 cruise was from 17 March to 8 May, 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jr16005/IMG_4668.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photos have been uploaded to &lt;a href=&quot;/galleries/jr16005/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
 </content>
 
 			
@@ -236,9 +252,9 @@
 		</entry>
 	
 		<entry>
-			<id>https://oceanmixing.github.io/2016/quick-mermeed-photos-copy.html</id>
+			<id>https://oceanmixing.github.io/2016/quick-mermeed-photos.html</id>
 			<title>MerMEED first cruise</title>
-			<link href="https://oceanmixing.github.io/2016/quick-mermeed-photos-copy.html" rel="alternate" type="text/html" title="MerMEED first cruise" />
+			<link href="https://oceanmixing.github.io/2016/quick-mermeed-photos.html" rel="alternate" type="text/html" title="MerMEED first cruise" />
 			<updated>2016-12-08T00:00:00+00:00</updated>
 
 			
@@ -255,8 +271,12 @@
 					
 				</author>
 			
-			<summary>7 days off the Bahamas in Dec 2016.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2016/quick-mermeed-photos-copy.html">&lt;p&gt;Completed the first small boat cruise for the MerMEED project.  70 VMP profiles collected.  Photos in &lt;a href=&quot;/galleries/ws16336/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
+			<summary>MerMEED small boat process cruise: 7 days off the Bahamas in Dec 2016.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2016/quick-mermeed-photos.html">&lt;p&gt;&lt;img src=&quot;/images/ws16336/IMG_3378.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve completed the first small boat cruise for the &lt;a href=&quot;/projects/mermeed&quot;&gt;MerMEED&lt;/a&gt; project.  70 VMP profiles collected during 7 days off the Bahamas.&lt;/p&gt;
+
+&lt;p&gt;Photos in &lt;a href=&quot;/galleries/ws16336/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
 </content>
 
 			
