@@ -33,19 +33,44 @@
 			</item>
 		
 			<item>
-				<title>Animating Boaty McBoatface (Autosub Long Range)</title>
-				<link>https://oceanmixing.github.io/2017/quick-boaty-mcboatface-animation.html</link>
+				<title>Autosub Long Range</title>
+				<link>https://oceanmixing.github.io/2017/adventures-of-boaty-mcboatface.html</link>
 				<pubDate>Wed, 17 May 2017 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;As a side project during the DynOPO cruise, I worked on coding an animation of Boaty McBoatface in Matlab along with the MARS/Autosub engineer, &lt;a href=&quot;http://noc.ac.uk/about-us/staff/robtemp&quot;&gt;Rob Templeton&lt;/a&gt;.  If you’re curious about creating 3-d visualisations of (radially-symmetric) objects in Matlab, here’s an example (embedded from Vimeo):&lt;/p&gt;
+				<description>&lt;h2 id=&quot;boatys-adventures-in-the-southern-ocean&quot;&gt;Boaty’s adventures in the Southern Ocean&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;19 April 2017&lt;/strong&gt;: Blog post on “Boaty’s second big adventure in the Orkney Passage” by Eleanor: &lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk/2017/04/boatys-second-big-adventure-in-orkney.html&quot;&gt;https://dynopocruise2017.blogspot.co.uk&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;5 April 2017&lt;/strong&gt;: And on “Boaty’s first big adventure” by Stephen Griffies: &lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk/2017/04/boatys-first-big-adventure.html&quot;&gt;https://dynopocruise2017.blogspot.co.uk/2017/04/boatys-first-big-adventure.html&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;20 March 2017&lt;/strong&gt;: An article in the Conversation: &lt;a href=&quot;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&quot;&gt;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;video-compilation&quot;&gt;Video compilation&lt;/h2&gt;
+
+&lt;p&gt;Here is a compilation of Boaty McBoatface highlights from Povl Abrahamsen:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CjyrruHrC60&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;animations&quot;&gt;Animations&lt;/h2&gt;
+
+&lt;p&gt;Note: Resolution improves if you pop it out/full screen the video.&lt;/p&gt;
+
+&lt;p&gt;As a side project during the DynOPO cruise, I worked on coding an animation of Boaty McBoatface in Matlab along with the MARS/Autosub engineer, &lt;a href=&quot;http://noc.ac.uk/about-us/staff/robtemp&quot;&gt;Rob Templeton&lt;/a&gt;.  If you’re curious about creating 3-d visualisations of (radially-symmetric) objects in Matlab, here’s an example (embedded from Vimeo):&lt;/p&gt;
+
+&lt;h3 id=&quot;building-boaty&quot;&gt;Building boaty&lt;/h3&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/217388302&quot; width=&quot;640&quot; height=&quot;427&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/217388302&quot;&gt;Building Boaty using Matlab&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user41789551&quot;&gt;Eleanor Frajka-Williams&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Note: Resolution improves if you pop it out/full screen the video.&lt;/p&gt;
-
-&lt;p&gt;Here’s the link: &lt;a href=&quot;https://vimeo.com/user41789551/building-boaty-using-matlab&quot;&gt;https://vimeo.com/user41789551/building-boaty-using-matlab&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;fly-through-style-animation&quot;&gt;Fly-through style animation&lt;/h3&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/217386697&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/217386697&quot;&gt;Boaty McBoatface M44 in Orkney Passage&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user41789551&quot;&gt;Eleanor Frajka-Williams&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://oceanmixing.github.io/2017/quick-boaty-mcboatface-animation.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/adventures-of-boaty-mcboatface.html</guid>
 			</item>
 		
 			<item>
@@ -54,9 +79,10 @@
 				<pubDate>Mon, 08 May 2017 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;The Dynamics of the Orkney Passage 2017 cruise was from 17 March to 8 May, 2017.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/jr16005/IMG_4668.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/dynopo/dynopo_cruisephoto.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Photos have been uploaded to &lt;a href=&quot;/galleries/jr16005/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
+
 </description>
 				<guid isPermaLink="true">https://oceanmixing.github.io/2017/quick-dynopo-ends.html</guid>
 			</item>
@@ -82,6 +108,17 @@
 &lt;p&gt;Read more on the Conversation: &lt;a href=&quot;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&quot;&gt;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">https://oceanmixing.github.io/2017/news-theconversation-acng.html</guid>
+			</item>
+		
+			<item>
+				<title>DynOPO cruise blog</title>
+				<link>https://oceanmixing.github.io/2017/dynopo-starts.html</link>
+				<pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;You can follow our progress at a cruise blog by Stephen Griffies: &lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk&quot;&gt;https://dynopocruise2017.blogspot.co.uk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk&quot;&gt;&lt;img src=&quot;/images/dynopo/dynopo_cruiseblog.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/dynopo-starts.html</guid>
 			</item>
 		
 			<item>
@@ -122,53 +159,6 @@
 
 </description>
 				<guid isPermaLink="true">https://oceanmixing.github.io/2016/postdoc-opportunities.html</guid>
-			</item>
-		
-			<item>
-				<title>New perspective on the MOC variability</title>
-				<link>https://oceanmixing.github.io/2016/circle_plots.html</link>
-				<pubDate>Tue, 05 Jul 2016 00:00:00 +0100</pubDate>
-				<description>&lt;h1 id=&quot;circle-plots&quot;&gt;Circle plots&lt;/h1&gt;
-
-&lt;p&gt;For datasets with an annual cycle that may obscure an overall tendency, it can be useful to view the plot as circle, where each clock direction represents a month of the year.  &lt;a href=&quot;http://www.twitter.com/ed_hawkins&quot;&gt;@ed_hawkins&lt;/a&gt; has made a number of these with long time series of temperatures, and of Arctic sea ice.&lt;/p&gt;
-
-&lt;p&gt;The MOC time series is now available through 2015.  You can download the data here: &lt;a href=&quot;http://www.rapid.ac.uk/rapidmoc/rapid_data/datadl.php&quot;&gt;www.rapid.ac.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;While the MOC time series at 26N is not nearly so long (now from April 2004 through October 2015), it’s interesting to view it in the same way. Ok, the GIFs are below (and you can click through the gallery), but if you’re tired of staring at spinning circles, the final images are here.  Click the figures for captions.&lt;/p&gt;
-
-&lt;ul class=&quot;clearing-thumbs small-block-grid-3&quot; data-clearing=&quot;&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;/images/circleplot/ekman_circle244.png&quot;&gt;&lt;img data-caption=&quot;Ekman transport variability: positive is northward across 26N.  The time periods when the Ekman transport was negative corresponded to negative NAO periods (Dec 2009 - Mar 2010, Dec 2010, Mar 2013).&quot; src=&quot;/images/circleplot/ekman_circle244.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;  
-  &lt;li&gt;&lt;a href=&quot;/images/circleplot/fc_circle244.png&quot;&gt;&lt;img data-caption=&quot;Florida Current (Gulf Stream through the Straits of Florida) transport variability, over the RAPID 26N period only.&quot; src=&quot;/images/circleplot/fc_circle244.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/images/circleplot/umo_circle244.png&quot;&gt;&lt;img data-caption=&quot;Thermocline transports - roughly the top 1100 m transports in the open ocean, between the Bahamas and Africa. The consistent oblong shape of the circles from year to year indicates a pronounced seasonal cycle.&quot; src=&quot;/images/circleplot/umo_circle244.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/images/circleplot/unadw_circle244.png&quot;&gt;&lt;img data-caption=&quot;UNADW (water between 1100-3000 m) transport variability: Note that positive is SOUTHWARD (towards an intensifiying overturning circulation).  While this transport is stronger than the LNADW, it is also very steady (circles almost overly each other), which means that it contributes little to the variability of the overturning circulation.&quot; src=&quot;/images/circleplot/unadw_circle244.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/images/circleplot/landw_circle244.png&quot;&gt;&lt;img data-caption=&quot;LNADW (water between 3000-5000 m deep) transport at 26N: Note that positive is SOUTHWARD (towards an intensifiying overturning circulation).  When the circle shrinks, the MOC weakens.&quot; src=&quot;/images/circleplot/landw_circle244.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/images/circleplot/moc_circle244.png&quot;&gt;&lt;img data-caption=&quot;Viewing the MOC from 26N as a circle plot&quot; src=&quot;/images/circleplot/moc_circle244.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So what can be seen in circle plots?  From the Ekman and UNADW transports, we see that these two are mostly not very variable.  Ekman transport did have some excursions (where the size of the circle shrunk), particularly in the winter months of December - March.  These were associated with the strongly negative periods of the North Atlantic Oscillation index in Dec-Mar 2009, Dec 2010 and Mar 2013.&lt;/p&gt;
-
-&lt;p&gt;From the UMO transports, we see an oblong sort of shape, with peaks (less negative thermocline transports around Sep-Nov.  This shape is associated with a somewhat pronounced seasonal cycle, not present in, for instance, the UNADW transports, which are mostly circular.&lt;/p&gt;
-
-&lt;p&gt;The Florida Current transports may be somewhat elongated, with a stronger transport in the summer months of June - September.  However, when plotted with the full record (since 1983), these transports show a sort of pulsating indicating stronger then weaker periods on timescales of a couple of years.&lt;/p&gt;
-
-&lt;p&gt;The remaining two figures, LNADW and MOC, both seem to indicate that the bigger circles were in the earlier (blue) years, and smaller circles in the later (red) years.  In the case of the LNADW transports, this means that the southward transport in the deep layer (3000 to 5000 m deep, between Florida and Africa) used to be more southward (note, signs were flipped) with a magnitude between 5 and 10 Sv.  In the later period, this strength has decreased, hovering around 5 Sv with some excursions crossing zero.&lt;/p&gt;
-
-&lt;p&gt;For the MOC, the decreasing tendency identified in @Smeed-etal-2012 and extended in @FrajkaWilliams-etal-2016 is apparent with the stronger overturning (around 20 Sv) in the earlier (blue) years, and a weaker overturning (around 15 Sv, with smaller excursions) since.  Curiously, MOC shows greater variability than any individual component (the other 5 plots), which means that the individual components do not cancel out when producing the MOC as a sum (FC+Ekman+Umo) or (UNADW+LNADW).&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Here are the animated gifs.  Click the figures for captions (though then you’ll only be able to see one at once).&lt;/p&gt;
-&lt;ul class=&quot;clearing-thumbs small-block-grid-3&quot; data-clearing=&quot;&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;/images/circleplot/ekman_circle_to2015.gif&quot;&gt;&lt;img data-caption=&quot;Ekman transport variability: positive is northward across 26N.  The time periods when the Ekman transport was negative corresponded to negative NAO periods (Dec 2009 - Mar 2010, Dec 2010, Mar 2013).&quot; src=&quot;/images/circleplot/ekman_circle_to2015inf.gif&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/images/circleplot/fc_circle_to2015.gif&quot;&gt;&lt;img data-caption=&quot;Florida Current (Gulf Stream through the Straits of Florida) transport variability, over the RAPID 26N period only.&quot; src=&quot;/images/circleplot/fc_circle_to2015inf.gif&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/images/circleplot/umo_circle_to2015.gif&quot;&gt;&lt;img data-caption=&quot;Thermocline transports - roughly the top 1100 m transports in the open ocean, between the Bahamas and Africa.  The consistent oblong shape of the circles from year to year indicates a pronounced seasonal cycle.&quot; src=&quot;/images/circleplot/umo_circle_to2015inf.gif&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/images/circleplot/unadw_circle_to2015.gif&quot;&gt;&lt;img data-caption=&quot;UNADW (water between 1100-3000 m deep) transport variability: Note that positive is SOUTHWARD (towards an intensifiying overturning circulation).  While this transport is stronger than the LNADW, it is also very steady (circles almost overly each other), which means that it contributes little to the variability of the overturning circulation.&quot; src=&quot;/images/circleplot/unadw_circle_to2015inf.gif&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/images/circleplot/lnadw_circle_to2015.gif&quot;&gt;&lt;img data-caption=&quot;LNADW (water between 3000-5000 m deep) transport at 26N: Note that positive is SOUTHWARD (towards an intensifiying overturning circulation).  When the circle shrinks, the MOC weakens.&quot; src=&quot;/images/circleplot/lnadw_circle_to2015inf.gif&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/images/circleplot/moc_circle_to2015.gif&quot;&gt;&lt;img data-caption=&quot;Viewing the MOC from 26N as a circle plot.  As the circle shrinks, the MOC weakens.&quot; src=&quot;/images/circleplot/moc_circle_to2015inf.gif&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">https://oceanmixing.github.io/2016/circle_plots.html</guid>
 			</item>
 		
 	</channel>
