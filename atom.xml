@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://oceanmixing.github.io/</id>
 	<title>Ocean Dynamics and Mixing</title>
-	<updated>2017-06-04T18:21:23+01:00</updated>
+	<updated>2017-06-05T13:06:14+01:00</updated>
 
 	<subtitle>The Ocean Dynamics and Mixing group at the University of Southampton is comprised of faculty, postdoctoral fellows and students. The focus of our group is on ocean observations with the aim of understanding these measurements and comparing with theoretical understandings of the ocean.</subtitle>
 
@@ -198,6 +198,44 @@
 		</entry>
 	
 		<entry>
+			<id>https://oceanmixing.github.io/2017/news-theconversation-acng.html</id>
+			<title>Piece in the Conversation about Boaty McBoatface</title>
+			<link href="https://oceanmixing.github.io/2017/news-theconversation-acng.html" rel="alternate" type="text/html" title="Piece in the Conversation about Boaty McBoatface" />
+			<updated>2017-03-20T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>How famed submarine will help unlock the causes of deep sea warming</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/news-theconversation-acng.html">&lt;p&gt;Alberto wrote a piece for the Conversation while we were on the RRS James Clark Ross, crossing Drake Passage towards the Weddell Sea.&lt;/p&gt;
+
+&lt;p&gt;It’s got a bit about the project &lt;a href=&quot;/projects/dynopo&quot;&gt;Dynopo (Dynamics of the Orkney Passage Outflow)&lt;/a&gt;, and also about the Autosub Long Range (ALR).  These vehicles have been in development for a while, but after the internet poll to name the new polar research vessel came up with a top naming choice of “Boaty McBoatface”, the ALRs got renamed Boaty McBoatface.&lt;/p&gt;
+
+&lt;p&gt;Read more on the Conversation: &lt;a href=&quot;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&quot;&gt;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="research" />
+			
+			
+				<category term="rapid" />
+			
+
+			<published>2017-03-20T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
 			<id>https://oceanmixing.github.io/2016/quick-mermeed-photos-copy.html</id>
 			<title>MerMEED first cruise</title>
 			<link href="https://oceanmixing.github.io/2016/quick-mermeed-photos-copy.html" rel="alternate" type="text/html" title="MerMEED first cruise" />
@@ -380,47 +418,6 @@
 			
 
 			<published>2016-07-05T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/2016/postdoc-opportunities.html</id>
-			<title>Recruiting now + to be advertised soon</title>
-			<link href="https://oceanmixing.github.io/2016/postdoc-opportunities.html" rel="alternate" type="text/html" title="Recruiting now + to be advertised soon" />
-			<updated>2016-06-23T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>Recruiting for several posts associated with NERC-funded projects, including DynOPO and FreshWATERS.  Closing dates from 24 July.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2016/postdoc-opportunities.html">&lt;h1 id=&quot;recruiting-for-several-posts&quot;&gt;Recruiting for several posts&lt;/h1&gt;
-
-&lt;p&gt;There is a postdoc opportunity at British Antarctic Survey for the DynOPO project (closing date: 24 July).&lt;/p&gt;
-
-&lt;p&gt;There will soon be a postdoc opportunity advertised for the FreshWATERS project.&lt;/p&gt;
-
-&lt;p&gt;See more information &lt;a href=&quot;http://www.eleanorfrajka.com/people/phd-opportunities/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-</content>
-
-			
-				<category term="research" />
-			
-			
-				<category term="freshwaters" />
-			
-
-			<published>2016-06-23T00:00:00+01:00</published>
 		</entry>
 	
 </feed>
