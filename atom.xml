@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://oceanmixing.github.io/</id>
 	<title>Ocean Dynamics and Mixing</title>
-	<updated>2017-06-05T22:49:02+01:00</updated>
+	<updated>2017-06-07T07:16:46+01:00</updated>
 
 	<subtitle>The Ocean Dynamics and Mixing group at the University of Southampton is comprised of faculty, postdoctoral fellows and students. The focus of our group is on ocean observations with the aim of understanding these measurements and comparing with theoretical understandings of the ocean.</subtitle>
 
@@ -31,8 +31,8 @@
 	
 		<entry>
 			<id>https://oceanmixing.github.io/2017/quick-liege-turbulence.html</id>
-			<title>MerMEED results</title>
-			<link href="https://oceanmixing.github.io/2017/quick-liege-turbulence.html" rel="alternate" type="text/html" title="MerMEED results" />
+			<title>MerMEED &amp; OSMOSIS results</title>
+			<link href="https://oceanmixing.github.io/2017/quick-liege-turbulence.html" rel="alternate" type="text/html" title="MerMEED &amp; OSMOSIS results" />
 			<updated>2017-05-22T00:00:00+01:00</updated>
 
 			
