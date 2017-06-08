@@ -9,19 +9,32 @@
 		<atom:link href="https://oceanmixing.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>For Wissenschaftsjahr</title>
+				<link>https://oceanmixing.github.io/2017/wissenschaftsjahr-eleanor.html</link>
+				<pubDate>Fri, 02 Jun 2017 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;For Germany’s Year of Science 2016-17, &lt;a href=&quot;https://www.wissenschaftsjahr.de/2016-17/&quot;&gt;Wissenschaftsjahr&lt;/a&gt;, the UK was the chosen partner for “Seas and Oceans”.  Eleanor was profiled for their website.  You can read it in original German, or English.&lt;/p&gt;
+
+&lt;p&gt;In German: &lt;a href=&quot;https://www.wissenschaftsjahr.de/2016-17/das-wissenschaftsjahr/partnerland-vereinigtes-koenigreich/die-pumpe-im-atlantik.html&quot;&gt;https://www.wissenschaftsjahr.de/2016-17/das-wissenschaftsjahr/partnerland-vereinigtes-koenigreich/die-pumpe-im-atlantik.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In English: &lt;a href=&quot;https://www.wissenschaftsjahr.de/2016-17/weiterfuehrende-informationen/englisch/science-year-201617-seas-and-oceans/the-circulation-pump-in-the-atlantic.html&quot;&gt;https://www.wissenschaftsjahr.de/2016-17/weiterfuehrende-informationen/englisch/science-year-201617-seas-and-oceans/the-circulation-pump-in-the-atlantic.html&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/wissenschaftsjahr-eleanor.html</guid>
+			</item>
+		
+			<item>
 				<title>MerMEED &amp; OSMOSIS results</title>
-				<link>https://oceanmixing.github.io/2017/quick-liege-turbulence.html</link>
+				<link>https://oceanmixing.github.io/2017/liege-turbulence.html</link>
 				<pubDate>Mon, 22 May 2017 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;/images/funstuff/liege_train.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A few of us went to the &lt;a href=&quot;http://labos.ulg.ac.be/gher/home/colloquium/colloquium-2017/&quot;&gt;49th Liege Colloquium&lt;/a&gt; which was the 3rd edition of Marine Turbulence.  It was a lovely workshop-sized conference in a beautiful venue.  Gwyn and Eleanor presented early results from the &lt;a href=&quot;/projects/mermeed/&quot;&gt;MerMEED&lt;/a&gt; project, and Xialong and Christian from OSMOSIS.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://oceanmixing.github.io/2017/quick-liege-turbulence.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/liege-turbulence.html</guid>
 			</item>
 		
 			<item>
 				<title>FreshWATERS balloon launch</title>
-				<link>https://oceanmixing.github.io/2017/quick-freshwaters-launch.html</link>
+				<link>https://oceanmixing.github.io/2017/freshwaters-launch.html</link>
 				<pubDate>Fri, 19 May 2017 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;/images/freshwaters/IMG_5859.jpg&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
 
@@ -29,7 +42,7 @@
 
 &lt;p&gt;Photos of the launch (and recovery) in &lt;a href=&quot;/galleries/freshwaters/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://oceanmixing.github.io/2017/quick-freshwaters-launch.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/freshwaters-launch.html</guid>
 			</item>
 		
 			<item>
@@ -146,22 +159,6 @@
 &lt;p&gt;Follow the project on &lt;a href=&quot;https://twitter.com/mermeeduk&quot;&gt;https://twitter.com/mermeeduk&lt;/a&gt;&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">https://oceanmixing.github.io/2016/Atlantic-eddies.html</guid>
-			</item>
-		
-			<item>
-				<title>Recruiting now! 3 postdoc positions, varied durations</title>
-				<link>https://oceanmixing.github.io/2016/postdoc-opportunities.html</link>
-				<pubDate>Thu, 11 Aug 2016 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;There are two  postdocs (shorter duration, &amp;lt;1 year) associated with the FreshWATERS project.  Due to the shorter duration, may only be useful for someone already located in the UK/Europe.&lt;/p&gt;
-
-&lt;p&gt;There is also a 3-year postdoc associated with the DynOPO project, involving field observations in the Southern Ocean.&lt;/p&gt;
-
-&lt;p&gt;All posts are located in Southampton, UK.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.eleanorfrajka.com/people/phd-opportunities/&quot;&gt;See more information here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">https://oceanmixing.github.io/2016/postdoc-opportunities.html</guid>
 			</item>
 		
 	</channel>
