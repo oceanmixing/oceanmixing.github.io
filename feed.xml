@@ -5,12 +5,12 @@
 	<channel>
 		<title>Ocean Dynamics and Mixing</title>
 		<description>The Ocean Dynamics and Mixing group at the University of Southampton is comprised of faculty, postdoctoral fellows and students. The focus of our group is on ocean observations with the aim of understanding these measurements and comparing with theoretical understandings of the ocean.</description>
-		<link>http://localhost:4000/</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://oceanmixing.github.io/</link>
+		<atom:link href="https://oceanmixing.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>For Wissenschaftsjahr</title>
-				<link>http://localhost:4000/2017/wissenschaftsjahr-eleanor.html</link>
+				<link>https://oceanmixing.github.io/2017/wissenschaftsjahr-eleanor.html</link>
 				<pubDate>Fri, 02 Jun 2017 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;For Germany’s Year of Science 2016-17, &lt;a href=&quot;https://www.wissenschaftsjahr.de/2016-17/&quot;&gt;Wissenschaftsjahr&lt;/a&gt;, the UK was the chosen partner for “Seas and Oceans”.  Eleanor was profiled for their website.  You can read it in original German, or English.&lt;/p&gt;
 
@@ -18,23 +18,23 @@
 
 &lt;p&gt;In English: &lt;a href=&quot;https://www.wissenschaftsjahr.de/2016-17/weiterfuehrende-informationen/englisch/science-year-201617-seas-and-oceans/the-circulation-pump-in-the-atlantic.html&quot;&gt;https://www.wissenschaftsjahr.de/2016-17/weiterfuehrende-informationen/englisch/science-year-201617-seas-and-oceans/the-circulation-pump-in-the-atlantic.html&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/2017/wissenschaftsjahr-eleanor.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/wissenschaftsjahr-eleanor.html</guid>
 			</item>
 		
 			<item>
 				<title>MerMEED &amp; OSMOSIS results</title>
-				<link>http://localhost:4000/2017/liege-turbulence.html</link>
+				<link>https://oceanmixing.github.io/2017/liege-turbulence.html</link>
 				<pubDate>Mon, 22 May 2017 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;/images/funstuff/liege_train.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A few of us went to the &lt;a href=&quot;http://labos.ulg.ac.be/gher/home/colloquium/colloquium-2017/&quot;&gt;49th Liege Colloquium&lt;/a&gt; which was the 3rd edition of Marine Turbulence.  It was a lovely workshop-sized conference in a beautiful venue.  Gwyn and Eleanor presented early results from the &lt;a href=&quot;/projects/mermeed/&quot;&gt;MerMEED&lt;/a&gt; project, and Xialong and Christian from OSMOSIS.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/2017/liege-turbulence.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/liege-turbulence.html</guid>
 			</item>
 		
 			<item>
 				<title>FreshWATERS balloon launch</title>
-				<link>http://localhost:4000/2017/freshwaters-launch.html</link>
+				<link>https://oceanmixing.github.io/2017/freshwaters-launch.html</link>
 				<pubDate>Fri, 19 May 2017 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;/images/freshwaters/IMG_5859.jpg&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
 
@@ -42,12 +42,12 @@
 
 &lt;p&gt;Photos of the launch (and recovery) in &lt;a href=&quot;/galleries/freshwaters/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/2017/freshwaters-launch.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/freshwaters-launch.html</guid>
 			</item>
 		
 			<item>
 				<title>Autosub Long Range</title>
-				<link>http://localhost:4000/2017/adventures-of-boaty-mcboatface.html</link>
+				<link>https://oceanmixing.github.io/2017/adventures-of-boaty-mcboatface.html</link>
 				<pubDate>Wed, 17 May 2017 00:00:00 +0100</pubDate>
 				<description>&lt;h2 id=&quot;boatys-adventures-in-the-southern-ocean&quot;&gt;Boaty’s adventures in the Southern Ocean&lt;/h2&gt;
 
@@ -86,12 +86,12 @@
 &lt;iframe src=&quot;https://player.vimeo.com/video/217386697&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/217386697&quot;&gt;Boaty McBoatface M44 in Orkney Passage&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user41789551&quot;&gt;Eleanor Frajka-Williams&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/2017/adventures-of-boaty-mcboatface.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/adventures-of-boaty-mcboatface.html</guid>
 			</item>
 		
 			<item>
 				<title>End of DynOPO cruise #2</title>
-				<link>http://localhost:4000/2017/quick-dynopo-ends.html</link>
+				<link>https://oceanmixing.github.io/2017/quick-dynopo-ends.html</link>
 				<pubDate>Mon, 08 May 2017 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;The Dynamics of the Orkney Passage 2017 cruise was from 17 March to 8 May, 2017.&lt;/p&gt;
 
@@ -100,22 +100,22 @@
 &lt;p&gt;Photos have been uploaded to &lt;a href=&quot;/galleries/jr16005/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/2017/quick-dynopo-ends.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/quick-dynopo-ends.html</guid>
 			</item>
 		
 			<item>
 				<title>EGU Early Career award</title>
-				<link>http://localhost:4000/2017/quick-egu-early-career.html</link>
+				<link>https://oceanmixing.github.io/2017/quick-egu-early-career.html</link>
 				<pubDate>Fri, 28 Apr 2017 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;At the 2017 European Geophysical Union general assembly, Eleanor Frajka-Williams was awarded with the 
 &lt;a href=&quot;http://www.egu.eu/awards-medals/division-outstanding-ecs-award/2017/&quot;&gt;Outstanding Early Career Scientist award&lt;/a&gt; for Ocean Sciences.  Unfortunately, she was in the Southern Ocean and couldn’t be there to receive the award in person.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/2017/quick-egu-early-career.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/quick-egu-early-career.html</guid>
 			</item>
 		
 			<item>
 				<title>Piece in the Conversation about Boaty McBoatface</title>
-				<link>http://localhost:4000/2017/news-theconversation-acng.html</link>
+				<link>https://oceanmixing.github.io/2017/news-theconversation-acng.html</link>
 				<pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;Alberto wrote a piece for the Conversation while we were on the RRS James Clark Ross, crossing Drake Passage towards the Weddell Sea.&lt;/p&gt;
 
@@ -123,23 +123,23 @@
 
 &lt;p&gt;Read more on the Conversation: &lt;a href=&quot;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&quot;&gt;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&lt;/a&gt;.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/2017/news-theconversation-acng.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/news-theconversation-acng.html</guid>
 			</item>
 		
 			<item>
 				<title>DynOPO cruise blog</title>
-				<link>http://localhost:4000/2017/dynopo-starts.html</link>
+				<link>https://oceanmixing.github.io/2017/dynopo-starts.html</link>
 				<pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;You can follow our progress at a cruise blog by Stephen Griffies: &lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk&quot;&gt;https://dynopocruise2017.blogspot.co.uk&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk&quot;&gt;&lt;img src=&quot;/images/dynopo/dynopo_cruiseblog.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/2017/dynopo-starts.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/dynopo-starts.html</guid>
 			</item>
 		
 			<item>
 				<title>MerMEED first cruise</title>
-				<link>http://localhost:4000/2016/quick-mermeed-photos.html</link>
+				<link>https://oceanmixing.github.io/2016/quick-mermeed-photos.html</link>
 				<pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;/images/ws16336/IMG_3378.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -147,18 +147,18 @@
 
 &lt;p&gt;Photos in &lt;a href=&quot;/galleries/ws16336/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/2016/quick-mermeed-photos.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2016/quick-mermeed-photos.html</guid>
 			</item>
 		
 			<item>
 				<title>Eddy watch in the Bahamas</title>
-				<link>http://localhost:4000/2016/Atlantic-eddies.html</link>
+				<link>https://oceanmixing.github.io/2016/Atlantic-eddies.html</link>
 				<pubDate>Thu, 25 Aug 2016 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;We are now preparing for our first field expedition in the Bahamas for the project MerMEED, watching the near real-time altimetry for the development and progression of eddies in the Atlantic.&lt;/p&gt;
 
 &lt;p&gt;Follow the project on &lt;a href=&quot;https://twitter.com/mermeeduk&quot;&gt;https://twitter.com/mermeeduk&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/2016/Atlantic-eddies.html</guid>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2016/Atlantic-eddies.html</guid>
 			</item>
 		
 	</channel>
