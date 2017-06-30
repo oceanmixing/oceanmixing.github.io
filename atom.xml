@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://oceanmixing.github.io/</id>
 	<title>Ocean Dynamics and Mixing</title>
-	<updated>2017-06-30T11:51:21+01:00</updated>
+	<updated>2017-06-30T15:45:26+01:00</updated>
 
 	<subtitle>The Ocean Dynamics and Mixing group at the University of Southampton is comprised of faculty, postdoctoral fellows and students. The focus of our group is on ocean observations with the aim of understanding these measurements and comparing with theoretical understandings of the ocean.</subtitle>
 
@@ -63,6 +63,9 @@
     &lt;p&gt;&lt;a href=&quot;http://www.bbc.co.uk/news/science-environment-40425996&quot;&gt;BBC website&lt;/a&gt; - including the animated fly-through&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.bbc.co.uk/newsround/38949047&quot;&gt;CBBC Newsround&lt;/a&gt; - which is a children’s news programme.  It included a few seconds of the animated fly-through and described the DynOPO project.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/science/2017/jun/28/boaty-mcboatface-submarine-maiden-voyage&quot;&gt;Guardian&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -77,7 +80,19 @@
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://edition.cnn.com/2017/06/28/world/boaty-mcboatface-returns/index.html&quot;&gt;CNN&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.cbsnews.com/news/boaty-mcboatface-returns-from-maiden-voyage-with-unprecedented-data/&quot;&gt;CBS&lt;/a&gt; - with the animated clip&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.msn.com/en-us/news/other/british-vessel-boaty-mcboatface-returns-from-maiden-voyage/vi-BBDsMFk&quot;&gt;MSN&lt;/a&gt; - with the animated clip&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;in-case-you-missed-it&quot;&gt;In case you missed it&lt;/h2&gt;
+
+&lt;p&gt;Check out the animation of Autosub Long Range’s journey through Orkney Passage:&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/217386697&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/217386697&quot;&gt;Boaty McBoatface M44 in Orkney Passage&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user41789551&quot;&gt;Eleanor Frajka-Williams&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;There are some additional online releases about the DynOPO project and Boaty, including:&lt;/p&gt;
 
@@ -89,13 +104,20 @@
     &lt;p&gt;&lt;a href=&quot;https://www.bas.ac.uk/media-post/first-dive-boaty-mcboatface/&quot;&gt;BAS - 2 April 2017&lt;/a&gt; - with Boaty’s first Antarctic dive (video by DynOPO co-I: Povl Abrahamsen)&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p align=&quot;right&quot;&gt;Explore more about &lt;a href=&quot;/2017/adventures-of-boaty-mcboatface.html&quot;&gt;Boaty McBoatface in DynOPO&lt;/a&gt;
+
+&lt;p align=&quot;right&quot;&gt;Or find out about &lt;a href=&quot;/projects/dynopo&quot;&gt;DynOPO Science&lt;/a&gt;
+&lt;/p&gt;&lt;/p&gt;
 </content>
 
 			
-				<category term="DynOPO" />
+				<category term="In the news" />
 			
 			
-				<category term="press" />
+				<category term="dynopo" />
 			
 
 			<published>2017-06-28T00:00:00+01:00</published>
@@ -130,10 +152,12 @@
 </content>
 
 			
-				<category term="AMOC" />
+				<category term="Around the web" />
 			
 			
 				<category term="press" />
+			
+				<category term="rapid" />
 			
 
 			<published>2017-06-02T00:00:00+01:00</published>
@@ -166,10 +190,10 @@
 </content>
 
 			
-				<category term="mermeed" />
-			
-			
 				<category term="conference" />
+			
+			
+				<category term="mermeed" />
 			
 
 			<published>2017-05-22T00:00:00+01:00</published>
@@ -204,10 +228,12 @@
 </content>
 
 			
-				<category term="freshwaters" />
+				<category term="Photos" />
 			
 			
 				<category term="fieldwork" />
+			
+				<category term="freshwaters" />
 			
 
 			<published>2017-05-19T00:00:00+01:00</published>
@@ -276,10 +302,12 @@
 </content>
 
 			
-				<category term="DynOPO" />
+				<category term="Media" />
 			
-				<category term="Technology" />
 			
+				<category term="dynopo" />
+			
+				<category term="boatymcboatface" />
 			
 
 			<published>2017-05-17T00:00:00+01:00</published>
@@ -315,8 +343,10 @@
 </content>
 
 			
-				<category term="quick" />
+				<category term="Photos" />
 			
+			
+				<category term="dynopo" />
 			
 
 			<published>2017-05-08T00:00:00+01:00</published>
@@ -348,7 +378,7 @@
 </content>
 
 			
-				<category term="quick" />
+				<category term="awards" />
 			
 			
 
@@ -384,10 +414,12 @@
 </content>
 
 			
-				<category term="research" />
+				<category term="In the news" />
 			
 			
-				<category term="rapid" />
+				<category term="dynopo" />
+			
+				<category term="boatymcboatface" />
 			
 
 			<published>2017-03-20T00:00:00+00:00</published>
@@ -420,8 +452,12 @@
 </content>
 
 			
-				<category term="quick" />
+				<category term="Around the web" />
 			
+			
+				<category term="dynopo" />
+			
+				<category term="fieldwork" />
 			
 
 			<published>2017-03-17T00:00:00+00:00</published>
@@ -456,8 +492,12 @@
 </content>
 
 			
-				<category term="quick" />
+				<category term="Photos" />
 			
+			
+				<category term="mermeed" />
+			
+				<category term="fieldwork" />
 			
 
 			<published>2016-12-08T00:00:00+00:00</published>

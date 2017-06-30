@@ -186,25 +186,6 @@
 
           
           
-            
-            
-
-              <li class="divider"></li>
-              <li class="has-dropdown">
-                <a href="https://oceanmixing.github.io/blog/">News</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="https://oceanmixing.github.io/blog/archive/">News Archive</a></li>
-                    
-                  </ul>
-                  
-              </li>
-            
-          
         
         
       </ul>
@@ -362,6 +343,26 @@
               
 
           
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a href="https://oceanmixing.github.io/blog/">News</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="https://oceanmixing.github.io/blog/archive/">News Archive</a></li>
+                    
+                  </ul>
+                  
+              </li>
+              <li class="divider"></li>
+            
           
         
         
