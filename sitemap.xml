@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 222 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 224 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/404.html</loc>
+	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,9 +20,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/bibdir/allreferences</loc>
+	<loc>http://localhost:4000/bibdir/allreferences</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,9 +35,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/blog/archive/</loc>
+	<loc>http://localhost:4000/blog/archive/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -52,9 +52,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/atom.xml</loc>
+	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,9 +69,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/feed.xml</loc>
+	<loc>http://localhost:4000/feed.xml</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -84,9 +84,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/galleries/autosub/</loc>
+	<loc>http://localhost:4000/galleries/autosub/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,9 +99,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/galleries/freshwaters/</loc>
+	<loc>http://localhost:4000/galleries/freshwaters/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -114,9 +114,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/galleries/jc103/</loc>
+	<loc>http://localhost:4000/galleries/jc103/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -129,9 +129,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/galleries/jr16005/</loc>
+	<loc>http://localhost:4000/galleries/jr16005/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -144,9 +144,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/galleries/jr310/</loc>
+	<loc>http://localhost:4000/galleries/jr310/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -159,9 +159,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/galleries/ws16336/</loc>
+	<loc>http://localhost:4000/galleries/ws16336/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -174,9 +174,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/galleries/</loc>
+	<loc>http://localhost:4000/galleries/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -189,9 +189,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/bibdir/grey</loc>
+	<loc>http://localhost:4000/bibdir/grey</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -204,9 +204,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/humans.txt</loc>
+	<loc>http://localhost:4000/humans.txt</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -219,9 +219,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/blog/</loc>
+	<loc>http://localhost:4000/blog/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -234,9 +234,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/</loc>
+	<loc>http://localhost:4000/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -249,9 +249,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/info/</loc>
+	<loc>http://localhost:4000/info/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -264,9 +264,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/bibdir/inprep-acng</loc>
+	<loc>http://localhost:4000/bibdir/inprep-acng</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -279,9 +279,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/bibdir/inprep-efw</loc>
+	<loc>http://localhost:4000/bibdir/inprep-efw</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -294,9 +294,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/bibdir/inprep</loc>
+	<loc>http://localhost:4000/bibdir/inprep</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -309,9 +309,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/justforfun/</loc>
+	<loc>http://localhost:4000/justforfun/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -324,9 +324,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/nexuss/</loc>
+	<loc>http://localhost:4000/nexuss/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -339,9 +339,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/opportunities/</loc>
+	<loc>http://localhost:4000/opportunities/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -354,9 +354,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/bibdir/other</loc>
+	<loc>http://localhost:4000/bibdir/other</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -369,9 +369,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/people/</loc>
+	<loc>http://localhost:4000/people/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -384,9 +384,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/projects/dynopo/</loc>
+	<loc>http://localhost:4000/projects/dynopo/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -399,9 +399,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/projects/freshwaters/</loc>
+	<loc>http://localhost:4000/projects/freshwaters/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -414,9 +414,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/projects/labsea/</loc>
+	<loc>http://localhost:4000/projects/labsea/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -429,9 +429,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/projects/mermeed/</loc>
+	<loc>http://localhost:4000/projects/mermeed/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -444,9 +444,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/projects/rapid/</loc>
+	<loc>http://localhost:4000/projects/rapid/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -459,9 +459,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/projects/seagliders/</loc>
+	<loc>http://localhost:4000/projects/seagliders/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -474,9 +474,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/projects/</loc>
+	<loc>http://localhost:4000/projects/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -489,9 +489,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications-alberto-naveira-garabato/</loc>
+	<loc>http://localhost:4000/publications-alberto-naveira-garabato/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -504,9 +504,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications-eleanor-frajka-williams/</loc>
+	<loc>http://localhost:4000/publications-eleanor-frajka-williams/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -519,9 +519,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/greylit/</loc>
+	<loc>http://localhost:4000/publications/greylit/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -534,9 +534,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/other/</loc>
+	<loc>http://localhost:4000/publications/other/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -549,9 +549,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/</loc>
+	<loc>http://localhost:4000/publications/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -564,9 +564,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/bibdir/published</loc>
+	<loc>http://localhost:4000/bibdir/published</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -579,9 +579,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/redirect-page/</loc>
+	<loc>http://localhost:4000/redirect-page/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -594,9 +594,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/bibdir/references-acng</loc>
+	<loc>http://localhost:4000/bibdir/references-acng</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -609,9 +609,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/bibdir/references-eleanor</loc>
+	<loc>http://localhost:4000/bibdir/references-eleanor</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -624,9 +624,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/research/</loc>
+	<loc>http://localhost:4000/research/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -639,9 +639,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/resources/awards-for-undergraduates-and-graduate-students/</loc>
+	<loc>http://localhost:4000/resources/awards-for-undergraduates-and-graduate-students/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -654,9 +654,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/resources/creating-a-podcast-from-keynote-and-garageband/</loc>
+	<loc>http://localhost:4000/resources/creating-a-podcast-from-keynote-and-garageband/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -669,9 +669,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/resources/ocean-related-careers/</loc>
+	<loc>http://localhost:4000/resources/ocean-related-careers/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -684,9 +684,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/resources/recording-rotating-table-weather-in-a-tank-videos/</loc>
+	<loc>http://localhost:4000/resources/recording-rotating-table-weather-in-a-tank-videos/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -699,9 +699,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/resources/summer-placements-for-undergraduates/</loc>
+	<loc>http://localhost:4000/resources/summer-placements-for-undergraduates/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -714,9 +714,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/resources/watermarking-videos-in-quicktime/</loc>
+	<loc>http://localhost:4000/resources/watermarking-videos-in-quicktime/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -729,9 +729,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/resources/</loc>
+	<loc>http://localhost:4000/resources/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -744,9 +744,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/robots.txt</loc>
+	<loc>http://localhost:4000/robots.txt</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -763,9 +763,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/search/</loc>
+	<loc>http://localhost:4000/search/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -778,9 +778,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/sitemap.xml</loc>
+	<loc>http://localhost:4000/sitemap.xml</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -795,9 +795,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/teaching/</loc>
+	<loc>http://localhost:4000/teaching/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -810,9 +810,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -825,9 +825,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-etal-2016b</loc>
+	<loc>http://localhost:4000/publications/Elipot-etal-2018</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -840,9 +840,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Elipot-etal-2018</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-etal-2016b</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -855,9 +855,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Schulze-FrajkaWilliams-2016</loc>
+	<loc>http://localhost:4000/publications/Schulze-FrajkaWilliams-2016</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -870,9 +870,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Mashayek-etal-2017</loc>
+	<loc>http://localhost:4000/publications/Cusack-etal-2017</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -885,9 +885,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2017</loc>
+	<loc>http://localhost:4000/publications/Evans-etal-2017</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -900,9 +900,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Evans-etal-2017</loc>
+	<loc>http://localhost:4000/publications/Brearley-etal-2017</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -915,9 +915,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Cusack-etal-2017</loc>
+	<loc>http://localhost:4000/publications/Mashayek-etal-2017</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -930,9 +930,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Brearley-etal-2017</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2017</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -945,9 +945,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Elipot-etal-2017</loc>
+	<loc>http://localhost:4000/publications/Elipot-etal-2017</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -960,9 +960,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2016b</loc>
+	<loc>http://localhost:4000/publications/Moat-etal-2016</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -975,9 +975,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2016a</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-rapidblog-2016</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -990,9 +990,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Buckingham-etal-2016</loc>
+	<loc>http://localhost:4000/publications/Clement-etal-2016</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1005,9 +1005,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/deLavergne-etal-2016a</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2016a</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1020,9 +1020,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Moat-etal-2016</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2016b</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1035,9 +1035,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Clement-etal-2016</loc>
+	<loc>http://localhost:4000/publications/deLavergne-etal-2016a</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1050,9 +1050,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-etal-2016</loc>
+	<loc>http://localhost:4000/publications/Duchez-etal-2016b</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1065,9 +1065,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Duchez-etal-2016-clivar</loc>
+	<loc>http://localhost:4000/publications/Duchez-etal-2016-clivar</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1080,9 +1080,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Duchez-etal-2016b</loc>
+	<loc>http://localhost:4000/publications/Buckingham-etal-2016</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1095,9 +1095,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Heywood-etal-2016</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-etal-2016</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1110,9 +1110,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Kimura-etal-2016</loc>
+	<loc>http://localhost:4000/publications/Broadbridge-etal-2016</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1125,9 +1125,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Meijers-etal-2016</loc>
+	<loc>http://localhost:4000/publications/Heywood-etal-2016</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1140,9 +1140,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Loose-etal-2016</loc>
+	<loc>http://localhost:4000/publications/Kimura-etal-2016</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1155,9 +1155,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Broadbridge-etal-2016</loc>
+	<loc>http://localhost:4000/publications/Meijers-etal-2016</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1170,9 +1170,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Thompson-etal-2016</loc>
+	<loc>http://localhost:4000/publications/Loose-etal-2016</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1185,9 +1185,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-rapidblog-2016</loc>
+	<loc>http://localhost:4000/publications/Thompson-etal-2016</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1200,9 +1200,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Hemsley-etal-2015</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-etal-youtube-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1215,9 +1215,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-2015</loc>
+	<loc>http://localhost:4000/publications/McCarthy-etal-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1230,9 +1230,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/McCarthy-etal-2015</loc>
+	<loc>http://localhost:4000/publications/Hemsley-etal-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1245,9 +1245,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Trossman-etal-2015</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1260,9 +1260,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Sarkar-etal-2015</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-mocaltimetry-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1275,9 +1275,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Sevellec-etal-2015</loc>
+	<loc>http://localhost:4000/publications/Trossman-etal-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1290,9 +1290,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Brannigan-etal-2015</loc>
+	<loc>http://localhost:4000/publications/Sarkar-etal-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1305,9 +1305,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-mocaltimetry-2015</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-iugg-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1320,9 +1320,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Forryan-etal-2015</loc>
+	<loc>http://localhost:4000/publications/Brannigan-etal-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1335,9 +1335,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Brown-etal-2015</loc>
+	<loc>http://localhost:4000/publications/Sheen-etal-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1350,9 +1350,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Meredith-etal-2015</loc>
+	<loc>http://localhost:4000/publications/Forryan-etal-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1365,9 +1365,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Bulczak-etal-2015</loc>
+	<loc>http://localhost:4000/publications/Brown-etal-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1380,9 +1380,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-iugg-2015</loc>
+	<loc>http://localhost:4000/publications/Meredith-etal-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1395,9 +1395,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-rapid-2015</loc>
+	<loc>http://localhost:4000/publications/Bulczak-etal-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1410,9 +1410,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-etal-youtube-2015</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-rapid-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1425,9 +1425,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Sheen-etal-2015</loc>
+	<loc>http://localhost:4000/publications/Sevellec-etal-2015</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1440,9 +1440,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Waterhouse-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Rye-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1455,9 +1455,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Thompson-NaveiraGarabato-2014</loc>
+	<loc>http://localhost:4000/publications/Sheen-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1470,9 +1470,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Meredith-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Waterhouse-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1485,9 +1485,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Brown-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Thompson-NaveiraGarabato-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1500,9 +1500,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Sheen-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Meredith-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1515,9 +1515,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Waterman-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Brown-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1530,9 +1530,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/MacGilchrist-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Jullion-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1545,9 +1545,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Polzin-etal-2014a</loc>
+	<loc>http://localhost:4000/publications/Waterman-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1560,9 +1560,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Brearley-etal-2014</loc>
+	<loc>http://localhost:4000/publications/MacGilchrist-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1575,9 +1575,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-et-al-2014</loc>
+	<loc>http://localhost:4000/publications/Polzin-etal-2014a</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1590,9 +1590,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Brearley-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1605,9 +1605,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Carton-etal-2014</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-et-al-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1620,9 +1620,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Clement-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Evans-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1635,9 +1635,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-2014-tos</loc>
+	<loc>http://localhost:4000/publications/Polzin-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1650,9 +1650,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Cunningham-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Elipot-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1665,9 +1665,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Duchez-etal-2014b</loc>
+	<loc>http://localhost:4000/publications/Smeed-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1680,9 +1680,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Duchez-etal-2014</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-2014-tos</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1695,9 +1695,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Elipot-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Baringer-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1710,9 +1710,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-2014</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1725,9 +1725,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Evans-etal-2014</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1740,9 +1740,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Polzin-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Carton-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1755,9 +1755,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Baringer-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Clement-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1770,9 +1770,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Smeed-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Cunningham-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1785,9 +1785,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Jullion-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Duchez-etal-2014b</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1800,9 +1800,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Rye-etal-2014</loc>
+	<loc>http://localhost:4000/publications/Duchez-etal-2014</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1815,9 +1815,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/MacKinnon-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Lauderdale-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1830,9 +1830,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Rintoul-NaveiraGarabato-2013</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-etal-youtube-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1845,9 +1845,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Zika-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Meredith-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1860,9 +1860,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-etal-2013</loc>
+	<loc>http://localhost:4000/publications/TorresValdes-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1875,9 +1875,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Baringer-etal-2013</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1890,9 +1890,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Roberts-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Couldrey-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1905,9 +1905,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Mielke-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Close-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1920,9 +1920,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Lauderdale-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Sheen-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1935,9 +1935,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Waterman-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Watson-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1950,9 +1950,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Meredith-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Jullion-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1965,9 +1965,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/TorresValdes-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Brearley-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1980,9 +1980,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2013</loc>
+	<loc>http://localhost:4000/publications/MacKinnon-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1995,9 +1995,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Couldrey-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Rintoul-NaveiraGarabato-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2010,9 +2010,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Watson-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Zika-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2025,9 +2025,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Close-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Mielke-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2040,9 +2040,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Sheen-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Roberts-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2055,9 +2055,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Brearley-etal-2013</loc>
+	<loc>http://localhost:4000/publications/Waterman-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2070,9 +2070,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Jullion-etal-2013</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2085,9 +2085,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-etal-youtube-2013</loc>
+	<loc>http://localhost:4000/publications/Baringer-etal-2013</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2100,9 +2100,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Lauderdale-etal-2012</loc>
+	<loc>http://localhost:4000/publications/Baringer-etal-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2115,9 +2115,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Huussen-etal-2012</loc>
+	<loc>http://localhost:4000/publications/McCarthy-etal-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2130,9 +2130,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-2012</loc>
+	<loc>http://localhost:4000/publications/Rogers-etal-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2145,9 +2145,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Close-NaveiraGarabato-2012</loc>
+	<loc>http://localhost:4000/publications/Palmer-etal-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2160,9 +2160,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Damerell-etal-2012</loc>
+	<loc>http://localhost:4000/publications/Meredith-etal-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2175,9 +2175,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Zuo-etal-2012</loc>
+	<loc>http://localhost:4000/publications/Tsubouchi-etal-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2190,9 +2190,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Tsubouchi-etal-2012</loc>
+	<loc>http://localhost:4000/publications/Zuo-etal-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2205,9 +2205,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Rogers-etal-2012</loc>
+	<loc>http://localhost:4000/publications/Damerell-etal-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2220,9 +2220,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Palmer-etal-2012</loc>
+	<loc>http://localhost:4000/publications/Close-NaveiraGarabato-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2235,9 +2235,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/StLaurent-etal-2012</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2250,9 +2250,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Meredith-etal-2012</loc>
+	<loc>http://localhost:4000/publications/Huussen-etal-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2265,9 +2265,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Baringer-etal-2012</loc>
+	<loc>http://localhost:4000/publications/Lauderdale-etal-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2280,9 +2280,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/McCarthy-etal-2012</loc>
+	<loc>http://localhost:4000/publications/StLaurent-etal-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2295,9 +2295,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Baringer-etal-2011</loc>
+	<loc>http://localhost:4000/publications/Meredith-etal-2011a</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2310,9 +2310,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-etal-2011</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2012</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2325,9 +2325,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-etal-2011b</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-2011-challenger</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2340,9 +2340,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Rayner-etal-2011</loc>
+	<loc>http://localhost:4000/publications/Johns-FrajkaWilliams-2011</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2355,9 +2355,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Meredith-etal-2011b</loc>
+	<loc>http://localhost:4000/publications/Rayner-etal-2011</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2370,9 +2370,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Scott-etal-2011</loc>
+	<loc>http://localhost:4000/publications/Baringer-etal-2011</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2385,9 +2385,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-2011-challenger</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-etal-2011b</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2400,9 +2400,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Aksenov-etal-2011</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2011</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2415,9 +2415,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2011</loc>
+	<loc>http://localhost:4000/publications/Meredith-etal-2011b</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2430,9 +2430,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2012</loc>
+	<loc>http://localhost:4000/publications/Scott-etal-2011</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2445,9 +2445,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Meredith-etal-2011a</loc>
+	<loc>http://localhost:4000/publications/Aksenov-etal-2011</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2460,9 +2460,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Johns-FrajkaWilliams-2011</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-etal-2011</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2475,9 +2475,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-Rhines-2010</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-Rhines-2010</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2490,9 +2490,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Kemp-etal-2010</loc>
+	<loc>http://localhost:4000/publications/Jullion-etal-2010a</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2505,9 +2505,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Jullion-etal-2010b</loc>
+	<loc>http://localhost:4000/publications/Jullion-etal-2010b</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2520,9 +2520,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Jullion-etal-2010a</loc>
+	<loc>http://localhost:4000/publications/Kemp-etal-2010</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2535,9 +2535,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Mayewski-etal-2009</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-2009</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2550,9 +2550,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Martini-etal-2009</loc>
+	<loc>http://localhost:4000/publications/Dodd-etal-2009</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2565,9 +2565,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-thesis</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2009</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2580,9 +2580,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-etal-2009</loc>
+	<loc>http://localhost:4000/publications/Mayewski-etal-2009</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2595,9 +2595,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2009</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-thesis</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2610,9 +2610,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Dodd-etal-2009</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-etal-2009</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2625,9 +2625,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-2009</loc>
+	<loc>http://localhost:4000/publications/Martini-etal-2009</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2640,9 +2640,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Drijfhout-NaveiraGarabato-2008</loc>
+	<loc>http://localhost:4000/publications/Lauderdale-etal-2008</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2655,9 +2655,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Lauderdale-etal-2008</loc>
+	<loc>http://localhost:4000/publications/Drijfhout-NaveiraGarabato-2008</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2670,9 +2670,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Marshall-NaveiraGarabato-2008</loc>
+	<loc>http://localhost:4000/publications/Marshall-NaveiraGarabato-2008</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2685,9 +2685,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Park-etal-2008</loc>
+	<loc>http://localhost:4000/publications/Meredith-etal-2008</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2700,9 +2700,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Meredith-etal-2008</loc>
+	<loc>http://localhost:4000/publications/Park-etal-2008</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2715,9 +2715,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2007</loc>
+	<loc>http://localhost:4000/publications/Palmer-etal-2007</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2730,9 +2730,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Palmer-etal-2007</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2007</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2745,9 +2745,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Charette-etal-2007</loc>
+	<loc>http://localhost:4000/publications/Charette-etal-2007</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2760,9 +2760,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Watson-NaveiraGarabato-2006</loc>
+	<loc>http://localhost:4000/publications/Watson-NaveiraGarabato-2006</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2775,9 +2775,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-etal-2005</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-etal-2005</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2790,9 +2790,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Barros-etal-2004</loc>
+	<loc>http://localhost:4000/publications/FrajkaWilliams-2004</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2805,9 +2805,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Heywood-etal-2004</loc>
+	<loc>http://localhost:4000/publications/Heywood-etal-2004</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2820,9 +2820,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2004b</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2004a</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2835,9 +2835,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2004a</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2004b</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2850,9 +2850,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/FrajkaWilliams-2004</loc>
+	<loc>http://localhost:4000/publications/Barros-etal-2004</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2865,9 +2865,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2003</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2003</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2880,9 +2880,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Arhan-etal-2002</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2002c</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2895,9 +2895,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2002b</loc>
+	<loc>http://localhost:4000/publications/Strass-etal-2002b</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2910,9 +2910,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2002a</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2002b</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2925,9 +2925,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Heywood-etal-2002</loc>
+	<loc>http://localhost:4000/publications/Strass-etal-2002a</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2940,9 +2940,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Strass-etal-2002b</loc>
+	<loc>http://localhost:4000/publications/Arhan-etal-2002</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2955,9 +2955,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Strass-etal-2002a</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2002a</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2970,9 +2970,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2002c</loc>
+	<loc>http://localhost:4000/publications/Heywood-etal-2002</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2985,9 +2985,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Meredith-etal-2001</loc>
+	<loc>http://localhost:4000/publications/Meredith-etal-2001</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3000,9 +3000,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-2001</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-2001</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3015,9 +3015,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Abrahamsen-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/EstradaAllis-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3030,9 +3030,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Phillips-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/Zika-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3045,9 +3045,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Tsubouchi-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/Mackay-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3060,9 +3060,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/NaveiraGarabato-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/Forryan-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3075,9 +3075,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Brannigan-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/Klocker-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3090,9 +3090,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Zhang-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/Buckingham-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3105,9 +3105,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Buckingham-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/Zhang-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3120,9 +3120,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Klocker-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/Brannigan-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3135,9 +3135,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Forryan-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/NaveiraGarabato-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3150,9 +3150,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/EstradaAllis-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/Yu-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3165,9 +3165,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Zika-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/Tsubouchi-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3180,9 +3180,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Mackay-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/Phillips-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3195,9 +3195,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/publications/Yu-etal-submitted</loc>
+	<loc>http://localhost:4000/publications/Abrahamsen-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3210,9 +3210,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/blog/page2/</loc>
+	<loc>http://localhost:4000/publications/Evans-etal-inprep</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3225,9 +3225,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/blog/page3/</loc>
+	<loc>http://localhost:4000/publications/Garry-etal-submitted</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3240,9 +3240,9 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/blog/page4/</loc>
+	<loc>http://localhost:4000/blog/page2/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3255,9 +3255,39 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/blog/page5/</loc>
+	<loc>http://localhost:4000/blog/page3/</loc>
 	
-		<lastmod>2017-07-17T12:59:09+01:00</lastmod>
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/page4/</loc>
+	
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/page5/</loc>
+	
+		<lastmod>2017-07-18T13:18:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3273,7 +3303,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2017/dynopo-boaty-in-the-news.html</loc>
+	<loc>http://localhost:4000/2017/dynopo-boaty-in-the-news.html</loc>
 	
 		<lastmod>2017-06-28T00:00:00+01:00</lastmod>
 	
@@ -3288,7 +3318,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2017/wissenschaftsjahr-eleanor.html</loc>
+	<loc>http://localhost:4000/2017/wissenschaftsjahr-eleanor.html</loc>
 	
 		<lastmod>2017-06-02T00:00:00+01:00</lastmod>
 	
@@ -3303,7 +3333,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2017/liege-turbulence.html</loc>
+	<loc>http://localhost:4000/2017/liege-turbulence.html</loc>
 	
 		<lastmod>2017-05-22T00:00:00+01:00</lastmod>
 	
@@ -3318,7 +3348,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2017/freshwaters-launch.html</loc>
+	<loc>http://localhost:4000/2017/freshwaters-launch.html</loc>
 	
 		<lastmod>2017-05-19T00:00:00+01:00</lastmod>
 	
@@ -3333,7 +3363,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2017/adventures-of-boaty-mcboatface.html</loc>
+	<loc>http://localhost:4000/2017/adventures-of-boaty-mcboatface.html</loc>
 	
 		<lastmod>2017-05-17T00:00:00+01:00</lastmod>
 	
@@ -3348,7 +3378,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2017/quick-dynopo-ends.html</loc>
+	<loc>http://localhost:4000/2017/quick-dynopo-ends.html</loc>
 	
 		<lastmod>2017-05-08T00:00:00+01:00</lastmod>
 	
@@ -3363,7 +3393,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2017/quick-egu-early-career.html</loc>
+	<loc>http://localhost:4000/2017/quick-egu-early-career.html</loc>
 	
 		<lastmod>2017-04-28T00:00:00+01:00</lastmod>
 	
@@ -3378,7 +3408,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2017/news-theconversation-acng.html</loc>
+	<loc>http://localhost:4000/2017/news-theconversation-acng.html</loc>
 	
 		<lastmod>2017-03-20T00:00:00+00:00</lastmod>
 	
@@ -3393,7 +3423,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2017/dynopo-starts.html</loc>
+	<loc>http://localhost:4000/2017/dynopo-starts.html</loc>
 	
 		<lastmod>2017-03-17T00:00:00+00:00</lastmod>
 	
@@ -3408,7 +3438,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2016/quick-mermeed-photos.html</loc>
+	<loc>http://localhost:4000/2016/quick-mermeed-photos.html</loc>
 	
 		<lastmod>2016-12-08T00:00:00+00:00</lastmod>
 	
@@ -3423,7 +3453,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2016/Atlantic-eddies.html</loc>
+	<loc>http://localhost:4000/2016/Atlantic-eddies.html</loc>
 	
 		<lastmod>2016-08-25T00:00:00+01:00</lastmod>
 	
@@ -3438,7 +3468,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2016/postdoc-opportunities.html</loc>
+	<loc>http://localhost:4000/2016/postdoc-opportunities.html</loc>
 	
 		<lastmod>2016-08-11T00:00:00+01:00</lastmod>
 	
@@ -3453,7 +3483,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2016/circle_plots.html</loc>
+	<loc>http://localhost:4000/2016/circle_plots.html</loc>
 	
 		<lastmod>2016-07-05T00:00:00+01:00</lastmod>
 	
@@ -3468,7 +3498,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2016/postdoc-opportunities.html</loc>
+	<loc>http://localhost:4000/2016/postdoc-opportunities.html</loc>
 	
 		<lastmod>2016-06-23T00:00:00+01:00</lastmod>
 	
@@ -3483,7 +3513,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2016/quick-freshwaters-funded.html</loc>
+	<loc>http://localhost:4000/2016/quick-freshwaters-funded.html</loc>
 	
 		<lastmod>2016-06-01T00:00:00+01:00</lastmod>
 	
@@ -3498,7 +3528,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2015/autumn-teaching-schedule.html</loc>
+	<loc>http://localhost:4000/2015/autumn-teaching-schedule.html</loc>
 	
 		<lastmod>2015-09-29T00:00:00+01:00</lastmod>
 	
@@ -3513,7 +3543,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2015/quick-bristol.html</loc>
+	<loc>http://localhost:4000/2015/quick-bristol.html</loc>
 	
 		<lastmod>2015-07-21T00:00:00+01:00</lastmod>
 	
@@ -3528,7 +3558,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2015/quick-iugg.html</loc>
+	<loc>http://localhost:4000/2015/quick-iugg.html</loc>
 	
 		<lastmod>2015-07-01T00:00:00+01:00</lastmod>
 	
@@ -3543,7 +3573,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2015/using-satellite-data-to-estimate-the-moc.html</loc>
+	<loc>http://localhost:4000/2015/using-satellite-data-to-estimate-the-moc.html</loc>
 	
 		<lastmod>2015-05-25T00:00:00+01:00</lastmod>
 	
@@ -3558,7 +3588,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/moc-from-space/</loc>
+	<loc>http://localhost:4000/moc-from-space/</loc>
 	
 		<lastmod>2015-05-25T00:00:00+01:00</lastmod>
 	
@@ -3573,7 +3603,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/data-form-moc-from-space/</loc>
+	<loc>http://localhost:4000/data-form-moc-from-space/</loc>
 	
 		<lastmod>2015-05-25T00:00:00+01:00</lastmod>
 	
@@ -3588,7 +3618,7 @@
 
 	
 	<url>
-	<loc>https://oceanmixing.github.io/2015/quick-dynopo-ends.html</loc>
+	<loc>http://localhost:4000/2015/quick-dynopo-ends.html</loc>
 	
 		<lastmod>2015-04-18T00:00:00+01:00</lastmod>
 	
