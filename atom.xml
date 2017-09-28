@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://oceanmixing.github.io/</id>
+	<title>Ocean Dynamics and Mixing</title>
+	<updated>2017-09-28T09:42:08+01:00</updated>
+
+	<subtitle>The Ocean Dynamics and Mixing group at the University of Southampton is comprised of faculty, postdoctoral fellows and students. The focus of our group is on ocean observations with the aim of understanding these measurements and comparing with theoretical understandings of the ocean.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Eleanor Frajka-Williams</name>
+			
+			
+				<email>eleanorfrajka@gmail.com</email>
+			
+			
+				<uri>http://eleanorfrajka.com/</uri>
+			
+		</author>
+	
+
+	<link href="https://oceanmixing.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://oceanmixing.github.io/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
+
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/dynopo-boaty-in-the-news.html</id>
+			<title>Return of Boaty McBoatyface</title>
+			<link href="https://oceanmixing.github.io/2017/dynopo-boaty-in-the-news.html" rel="alternate" type="text/html" title="Return of Boaty McBoatyface" />
+			<updated>2017-06-28T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>The DynOPO project and successful missions of Autosub Long Range got a bit of coverage in the news today, with articles in the BBC, the Guardian, and press releases on the University of Southampton webpage and the NERC website.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/dynopo-boaty-in-the-news.html">&lt;p&gt;&lt;img src=&quot;/images/boaty/IMG_4362_400.jpg&quot; align=&quot;right&quot; style=&quot;padding:5px&quot; /&gt;For UK Robotics week (26-30 June 2017), the University of Southampton released a press item about the return of Boaty.  This got picked up by a number of news outlets, and can be found at:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.southampton.ac.uk/news/2017/06/boaty-comes-home.page&quot;&gt;Southampton press release&lt;/a&gt; - including the animated fly-through&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.nerc.ac.uk/press/releases/2017/14-boaty/?utm_medium=social&amp;amp;utm_campaign=SocialSignIn&amp;amp;utm_source=Twitter&quot;&gt;NERC website&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.bbc.co.uk/news/science-environment-40425996&quot;&gt;BBC website&lt;/a&gt; - including the animated fly-through&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.bbc.co.uk/newsround/38949047&quot;&gt;CBBC Newsround&lt;/a&gt; - which is a children’s news programme.  It included a few seconds of the animated fly-through and described the DynOPO project.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/science/2017/jun/28/boaty-mcboatface-submarine-maiden-voyage&quot;&gt;Guardian&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://gizmodo.com/boaty-mcboatface-has-returned-from-its-inaugural-missio-1796482341&quot;&gt;Gizmodo&lt;/a&gt; - including the animated fly-through&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.treehugger.com/ocean-conservation/we-all-live-yellow-submarine-named-boaty-mcboatface.html&quot;&gt;Treehugger&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.npr.org/sections/thetwo-way/2017/06/28/534744971/boaty-mcboatface-makes-its-triumphant-return-hauling-unprecedented-data?utm_campaign=storyshare&amp;amp;utm_source=twitter.com&amp;amp;utm_medium=social&quot;&gt;NPR&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://edition.cnn.com/2017/06/28/world/boaty-mcboatface-returns/index.html&quot;&gt;CNN&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.cbsnews.com/news/boaty-mcboatface-returns-from-maiden-voyage-with-unprecedented-data/&quot;&gt;CBS&lt;/a&gt; - with the animated clip&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.msn.com/en-us/news/other/british-vessel-boaty-mcboatface-returns-from-maiden-voyage/vi-BBDsMFk&quot;&gt;MSN&lt;/a&gt; - with the animated clip&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here is a nice clip that merges some footage from Povl and the animation:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vu455B53MXk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;in-case-you-missed-it&quot;&gt;In case you missed it&lt;/h2&gt;
+
+&lt;p&gt;Check out the animation of Autosub Long Range’s journey through Orkney Passage:&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/217386697&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/217386697&quot;&gt;Boaty McBoatface M44 in Orkney Passage&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user41789551&quot;&gt;Eleanor Frajka-Williams&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are some additional online releases about the DynOPO project and Boaty, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://noc.ac.uk/education/educational-resources/boaty-mcboatface&quot;&gt;NOC educational resources&lt;/a&gt; - with video of Steve McPhail talking about ALR on board the JCR&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.bas.ac.uk/media-post/first-dive-boaty-mcboatface/&quot;&gt;BAS - 2 April 2017&lt;/a&gt; - with Boaty’s first Antarctic dive (video by DynOPO co-I: Povl Abrahamsen)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=KETthcrSyDc&quot;&gt;Next Animation&lt;/a&gt; - here’s another animated clip.  Not sure who produced it, but it looks pretty good - just, Autosubs don’t communicate by radio waves underwater.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p align=&quot;right&quot;&gt;Explore more fun stuff about &lt;a href=&quot;/2017/adventures-of-boaty-mcboatface.html&quot;&gt;Boaty McBoatface in DynOPO&lt;/a&gt;
+
+&lt;p align=&quot;right&quot;&gt;Or find out about &lt;a href=&quot;/projects/dynopo&quot;&gt;the science of the DynOPO project&lt;/a&gt;.
+
+&lt;p align=&quot;right&quot;&gt;You can also read about &lt;a href=&quot;http://noc.ac.uk/facilities/marine-autonomous-robotic-systems/autosubs&quot;&gt;Autosub Robots for Marine Science&lt;/a&gt; (external link).
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="In the news" />
+			
+			
+				<category term="dynopo" />
+			
+
+			<published>2017-06-28T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/wissenschaftsjahr-eleanor.html</id>
+			<title>For Wissenschaftsjahr</title>
+			<link href="https://oceanmixing.github.io/2017/wissenschaftsjahr-eleanor.html" rel="alternate" type="text/html" title="For Wissenschaftsjahr" />
+			<updated>2017-06-02T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>For a German-British celebration of Marine Science, Eleanor Frajka-Williams was profiled on her work in the Atlantic.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/wissenschaftsjahr-eleanor.html">&lt;p&gt;For Germany’s Year of Science 2016-17, &lt;a href=&quot;https://www.wissenschaftsjahr.de/2016-17/&quot;&gt;Wissenschaftsjahr&lt;/a&gt;, the UK was the chosen partner for “Seas and Oceans”.  Eleanor was profiled for their website.  You can read it in original German, or English.&lt;/p&gt;
+
+&lt;p&gt;In German: &lt;a href=&quot;https://www.wissenschaftsjahr.de/2016-17/das-wissenschaftsjahr/partnerland-vereinigtes-koenigreich/die-pumpe-im-atlantik.html&quot;&gt;https://www.wissenschaftsjahr.de/2016-17/das-wissenschaftsjahr/partnerland-vereinigtes-koenigreich/die-pumpe-im-atlantik.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In English: &lt;a href=&quot;https://www.wissenschaftsjahr.de/2016-17/weiterfuehrende-informationen/englisch/science-year-201617-seas-and-oceans/the-circulation-pump-in-the-atlantic.html&quot;&gt;https://www.wissenschaftsjahr.de/2016-17/weiterfuehrende-informationen/englisch/science-year-201617-seas-and-oceans/the-circulation-pump-in-the-atlantic.html&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="Around the web" />
+			
+			
+				<category term="press" />
+			
+				<category term="rapid" />
+			
+
+			<published>2017-06-02T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/liege-turbulence.html</id>
+			<title>MerMEED &amp; OSMOSIS results</title>
+			<link href="https://oceanmixing.github.io/2017/liege-turbulence.html" rel="alternate" type="text/html" title="MerMEED &amp; OSMOSIS results" />
+			<updated>2017-05-22T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>Heading to Liege Turbulence meeting - Gwyn Evans, Xialong Yu, Eleanor &amp; meeting up w/Louis Clement &amp; Christian Buckingham.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/liege-turbulence.html">&lt;p&gt;&lt;img src=&quot;/images/funstuff/liege_train.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A few of us went to the &lt;a href=&quot;http://labos.ulg.ac.be/gher/home/colloquium/colloquium-2017/&quot;&gt;49th Liege Colloquium&lt;/a&gt; which was the 3rd edition of Marine Turbulence.  It was a lovely workshop-sized conference in a beautiful venue.  Gwyn and Eleanor presented early results from the &lt;a href=&quot;/projects/mermeed/&quot;&gt;MerMEED&lt;/a&gt; project, and Xialong and Christian from OSMOSIS.&lt;/p&gt;
+</content>
+
+			
+				<category term="conference" />
+			
+			
+				<category term="mermeed" />
+			
+
+			<published>2017-05-22T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/freshwaters-launch.html</id>
+			<title>FreshWATERS balloon launch</title>
+			<link href="https://oceanmixing.github.io/2017/freshwaters-launch.html" rel="alternate" type="text/html" title="FreshWATERS balloon launch" />
+			<updated>2017-05-19T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>Launching a balloon for the FreshWATERS project, early in the morning on 19 May 2017.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/freshwaters-launch.html">&lt;p&gt;&lt;img src=&quot;/images/freshwaters/IMG_5859.jpg&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We had one of our test balloon launches for the FreshWATERS project in May.  It required an early start (before 6am) followed by a car chase of the GPS coordinates given by the balloon.&lt;/p&gt;
+
+&lt;p&gt;Photos of the launch (and recovery) in &lt;a href=&quot;/galleries/freshwaters/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="Photos" />
+			
+			
+				<category term="fieldwork" />
+			
+				<category term="freshwaters" />
+			
+
+			<published>2017-05-19T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/adventures-of-boaty-mcboatface.html</id>
+			<title>Autosub Long Range</title>
+			<link href="https://oceanmixing.github.io/2017/adventures-of-boaty-mcboatface.html" rel="alternate" type="text/html" title="Autosub Long Range" />
+			<updated>2017-05-17T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>We took Boaty McBoatface (ALR-1) with us to the Orkney Passage for Boaty&#39;s maiden voyage.  Here are a collection of blog posts, videos and animations about the adventure.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/adventures-of-boaty-mcboatface.html">&lt;h2 id=&quot;boatys-adventures-in-the-southern-ocean&quot;&gt;Boaty’s adventures in the Southern Ocean&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;27 June 2017&lt;/strong&gt;: University of Southampton press release on Boaty McBoatface’s return &lt;a href=&quot;http://www.southampton.ac.uk/news/2017/06/boaty-comes-home.page&quot;&gt;press release&lt;/a&gt; - including the animated fly-through&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;19 April 2017&lt;/strong&gt;: Blog post on “Boaty’s second big adventure in the Orkney Passage” by Eleanor: &lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk/2017/04/boatys-second-big-adventure-in-orkney.html&quot;&gt;https://dynopocruise2017.blogspot.co.uk&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;5 April 2017&lt;/strong&gt;: And on “Boaty’s first big adventure” by Stephen Griffies: &lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk/2017/04/boatys-first-big-adventure.html&quot;&gt;https://dynopocruise2017.blogspot.co.uk/2017/04/boatys-first-big-adventure.html&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;20 March 2017&lt;/strong&gt;: An article in the Conversation: &lt;a href=&quot;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&quot;&gt;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;photos-and-videos&quot;&gt;Photos and Videos&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Photo&lt;/strong&gt; highlights of the Autosub Long Range deployments are here:
+&lt;a href=&quot;/galleries/autosub/&quot;&gt;/galleries/autosub/&lt;br /&gt;&lt;img src=&quot;/images/boaty/IMG_4495_thumb.jpg&quot; border=&quot;3&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is a compilation &lt;strong&gt;video&lt;/strong&gt; of Boaty McBoatface highlights from Povl Abrahamsen:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CjyrruHrC60&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;animations&quot;&gt;Animations&lt;/h2&gt;
+
+&lt;p&gt;Note: Resolution improves if you pop it out/full screen the video.&lt;/p&gt;
+
+&lt;p&gt;As a side project during the DynOPO cruise, I worked on coding an animation of Boaty McBoatface in Matlab along with the MARS/Autosub engineer, &lt;a href=&quot;http://noc.ac.uk/about-us/staff/robtemp&quot;&gt;Rob Templeton&lt;/a&gt;.  If you’re curious about creating 3-d visualisations of (radially-symmetric) objects in Matlab, here’s an example (embedded from Vimeo):&lt;/p&gt;
+
+&lt;h3 id=&quot;building-boaty&quot;&gt;Building boaty&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/217388302&quot; width=&quot;640&quot; height=&quot;427&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/217388302&quot;&gt;Building Boaty using Matlab&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user41789551&quot;&gt;Eleanor Frajka-Williams&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;fly-through-style-animation&quot;&gt;Fly-through style animation&lt;/h3&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/217386697&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/217386697&quot;&gt;Boaty McBoatface M44 in Orkney Passage&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user41789551&quot;&gt;Eleanor Frajka-Williams&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="Media" />
+			
+			
+				<category term="dynopo" />
+			
+				<category term="boatymcboatface" />
+			
+
+			<published>2017-05-17T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/quick-dynopo-ends.html</id>
+			<title>End of DynOPO cruise #2</title>
+			<link href="https://oceanmixing.github.io/2017/quick-dynopo-ends.html" rel="alternate" type="text/html" title="End of DynOPO cruise #2" />
+			<updated>2017-05-08T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>We made port in Montevideo on 8 May - after setting sail from Punta Arenas, Chile on 17 March!  52 days at sea.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-dynopo-ends.html">&lt;p&gt;The Dynamics of the Orkney Passage 2017 cruise was from 17 March to 8 May, 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dynopo/dynopo_cruisephoto.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photos have been uploaded to &lt;a href=&quot;/galleries/jr16005/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+
+			
+				<category term="Photos" />
+			
+			
+				<category term="dynopo" />
+			
+
+			<published>2017-05-08T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/quick-egu-early-career.html</id>
+			<title>EGU Early Career award</title>
+			<link href="https://oceanmixing.github.io/2017/quick-egu-early-career.html" rel="alternate" type="text/html" title="EGU Early Career award" />
+			<updated>2017-04-28T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>Eleanor was awarded with the Outstanding Early Career Scientist award for Ocean Sciences 2017</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-egu-early-career.html">&lt;p&gt;At the 2017 European Geophysical Union general assembly, Eleanor Frajka-Williams was awarded with the 
+&lt;a href=&quot;http://www.egu.eu/awards-medals/division-outstanding-ecs-award/2017/&quot;&gt;Outstanding Early Career Scientist award&lt;/a&gt; for Ocean Sciences.  Unfortunately, she was in the Southern Ocean and couldn’t be there to receive the award in person.&lt;/p&gt;
+</content>
+
+			
+				<category term="awards" />
+			
+			
+
+			<published>2017-04-28T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/news-theconversation-acng.html</id>
+			<title>Piece in the Conversation about Boaty McBoatface</title>
+			<link href="https://oceanmixing.github.io/2017/news-theconversation-acng.html" rel="alternate" type="text/html" title="Piece in the Conversation about Boaty McBoatface" />
+			<updated>2017-03-20T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>How famed submarine will help unlock the causes of deep sea warming</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/news-theconversation-acng.html">&lt;p&gt;Alberto wrote a piece for the Conversation while we were on the RRS James Clark Ross, crossing Drake Passage towards the Weddell Sea.&lt;/p&gt;
+
+&lt;p&gt;It has a bit about the project &lt;a href=&quot;/projects/dynopo&quot;&gt;Dynopo (Dynamics of the Orkney Passage Outflow)&lt;/a&gt;, and also about the Autosub Long Range (ALR).  These vehicles have been in development for a while, but after the internet poll to name the new polar research vessel came up with a top naming choice of “Boaty McBoatface”, the ALRs got renamed Boaty McBoatface.&lt;/p&gt;
+
+&lt;p&gt;Read more on the Conversation: &lt;a href=&quot;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&quot;&gt;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="In the news" />
+			
+			
+				<category term="dynopo" />
+			
+				<category term="boatymcboatface" />
+			
+
+			<published>2017-03-20T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/dynopo-starts.html</id>
+			<title>DynOPO cruise blog</title>
+			<link href="https://oceanmixing.github.io/2017/dynopo-starts.html" rel="alternate" type="text/html" title="DynOPO cruise blog" />
+			<updated>2017-03-17T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>We are setting sail on the Dynamics of the Orkney Passage Outflow process cruise.  Sailing southeast from Punta Arenas to the Antarctic peninsula archipelago, separating the Weddell and Scotia Seas.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/dynopo-starts.html">&lt;p&gt;You can follow our progress at a cruise blog by Stephen Griffies: &lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk&quot;&gt;https://dynopocruise2017.blogspot.co.uk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk&quot;&gt;&lt;img src=&quot;/images/dynopo/dynopo_cruiseblog.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="Around the web" />
+			
+			
+				<category term="dynopo" />
+			
+				<category term="fieldwork" />
+			
+
+			<published>2017-03-17T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2016/quick-mermeed-photos.html</id>
+			<title>MerMEED first cruise</title>
+			<link href="https://oceanmixing.github.io/2016/quick-mermeed-photos.html" rel="alternate" type="text/html" title="MerMEED first cruise" />
+			<updated>2016-12-08T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>MerMEED small boat process cruise: 7 days off the Bahamas in Dec 2016.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2016/quick-mermeed-photos.html">&lt;p&gt;&lt;img src=&quot;/images/ws16336/IMG_3378.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve completed the first small boat cruise for the &lt;a href=&quot;/projects/mermeed&quot;&gt;MerMEED&lt;/a&gt; project.  70 VMP profiles collected during 7 days off the Bahamas.&lt;/p&gt;
+
+&lt;p&gt;Photos in &lt;a href=&quot;/galleries/ws16336/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="Photos" />
+			
+			
+				<category term="mermeed" />
+			
+				<category term="fieldwork" />
+			
+
+			<published>2016-12-08T00:00:00+00:00</published>
+		</entry>
+	
+</feed>
