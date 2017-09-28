@@ -9,6 +9,17 @@
 		<atom:link href="https://oceanmixing.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Oceans and Climate event in London</title>
+				<link>https://oceanmixing.github.io/2017/oceans-and-climate-uos-events.html</link>
+				<pubDate>Mon, 25 Sep 2017 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;/images/funstuff/panel_london.jpg&quot; align=&quot;right&quot; style=&quot;padding:5px&quot; /&gt;The three keynote talks were delivered by Eleanor Frajka-Williams, Stephen Belcher (Chief Scientist, Met Office) and Martin Visbeck (Physical Oceanographer, IFM-Geomar Kiel) on the topics of ocean observations, oceans and weather, and human and ocean interaction.  Following the talks, there was a panel with the speakers as well as Joerg Wiedermann (UoS) and Bablu Sinha (NOC).&lt;/p&gt;
+
+&lt;p&gt;For more information about the event, as well as footage and photos, see &lt;a href=&quot;https://www.southampton.ac.uk/news/events/2017/09/25-oceans-and-climate-public-lecture.page&quot;&gt;https://www.southampton.ac.uk/news/events/2017/09/25-oceans-and-climate-public-lecture.page&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://oceanmixing.github.io/2017/oceans-and-climate-uos-events.html</guid>
+			</item>
+		
+			<item>
 				<title>Return of Boaty McBoatyface</title>
 				<link>https://oceanmixing.github.io/2017/dynopo-boaty-in-the-news.html</link>
 				<pubDate>Wed, 28 Jun 2017 00:00:00 +0100</pubDate>
@@ -215,19 +226,6 @@
 &lt;p&gt;&lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk&quot;&gt;&lt;img src=&quot;/images/dynopo/dynopo_cruiseblog.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">https://oceanmixing.github.io/2017/dynopo-starts.html</guid>
-			</item>
-		
-			<item>
-				<title>MerMEED first cruise</title>
-				<link>https://oceanmixing.github.io/2016/quick-mermeed-photos.html</link>
-				<pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;/images/ws16336/IMG_3378.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We’ve completed the first small boat cruise for the &lt;a href=&quot;/projects/mermeed&quot;&gt;MerMEED&lt;/a&gt; project.  70 VMP profiles collected during 7 days off the Bahamas.&lt;/p&gt;
-
-&lt;p&gt;Photos in &lt;a href=&quot;/galleries/ws16336/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">https://oceanmixing.github.io/2016/quick-mermeed-photos.html</guid>
 			</item>
 		
 	</channel>

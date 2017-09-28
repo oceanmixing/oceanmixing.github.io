@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://oceanmixing.github.io/</id>
 	<title>Ocean Dynamics and Mixing</title>
-	<updated>2017-09-28T09:42:08+01:00</updated>
+	<updated>2017-09-28T09:51:44+01:00</updated>
 
 	<subtitle>The Ocean Dynamics and Mixing group at the University of Southampton is comprised of faculty, postdoctoral fellows and students. The focus of our group is on ocean observations with the aim of understanding these measurements and comparing with theoretical understandings of the ocean.</subtitle>
 
@@ -28,6 +28,42 @@
 
 	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/oceans-and-climate-uos-events.html</id>
+			<title>Oceans and Climate event in London</title>
+			<link href="https://oceanmixing.github.io/2017/oceans-and-climate-uos-events.html" rel="alternate" type="text/html" title="Oceans and Climate event in London" />
+			<updated>2017-09-25T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>The University of Southampton is running a series of public lectures on the Environment.  Sept 25th, the topic was Oceans and Climate, and Eleanor was one of the keynote speakers talking about using ocean observations to investigate the ocean circulation - including the RAPID array and Boaty McBoatface.  The event was livestreamed and tweeted (#UoSLectures) from the venue, the Institute of Mechanical Engineers in London.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/oceans-and-climate-uos-events.html">&lt;p&gt;&lt;img src=&quot;/images/funstuff/panel_london.jpg&quot; align=&quot;right&quot; style=&quot;padding:5px&quot; /&gt;The three keynote talks were delivered by Eleanor Frajka-Williams, Stephen Belcher (Chief Scientist, Met Office) and Martin Visbeck (Physical Oceanographer, IFM-Geomar Kiel) on the topics of ocean observations, oceans and weather, and human and ocean interaction.  Following the talks, there was a panel with the speakers as well as Joerg Wiedermann (UoS) and Bablu Sinha (NOC).&lt;/p&gt;
+
+&lt;p&gt;For more information about the event, as well as footage and photos, see &lt;a href=&quot;https://www.southampton.ac.uk/news/events/2017/09/25-oceans-and-climate-public-lecture.page&quot;&gt;https://www.southampton.ac.uk/news/events/2017/09/25-oceans-and-climate-public-lecture.page&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="In the news" />
+			
+			
+				<category term="dynopo" />
+			
+
+			<published>2017-09-25T00:00:00+01:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://oceanmixing.github.io/2017/dynopo-boaty-in-the-news.html</id>
@@ -469,46 +505,6 @@
 			
 
 			<published>2017-03-17T00:00:00+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/2016/quick-mermeed-photos.html</id>
-			<title>MerMEED first cruise</title>
-			<link href="https://oceanmixing.github.io/2016/quick-mermeed-photos.html" rel="alternate" type="text/html" title="MerMEED first cruise" />
-			<updated>2016-12-08T00:00:00+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>MerMEED small boat process cruise: 7 days off the Bahamas in Dec 2016.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2016/quick-mermeed-photos.html">&lt;p&gt;&lt;img src=&quot;/images/ws16336/IMG_3378.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We’ve completed the first small boat cruise for the &lt;a href=&quot;/projects/mermeed&quot;&gt;MerMEED&lt;/a&gt; project.  70 VMP profiles collected during 7 days off the Bahamas.&lt;/p&gt;
-
-&lt;p&gt;Photos in &lt;a href=&quot;/galleries/ws16336/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
-</content>
-
-			
-				<category term="Photos" />
-			
-			
-				<category term="mermeed" />
-			
-				<category term="fieldwork" />
-			
-
-			<published>2016-12-08T00:00:00+00:00</published>
 		</entry>
 	
 </feed>
