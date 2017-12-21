@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://oceanmixing.github.io/</id>
 	<title>Ocean Dynamics and Mixing</title>
-	<updated>2017-12-21T11:48:02+00:00</updated>
+	<updated>2017-12-21T12:14:17+00:00</updated>
 
 	<subtitle>The Ocean Dynamics and Mixing group at the University of Southampton is comprised of faculty, postdoctoral fellows and students. The focus of our group is on ocean observations with the aim of understanding these measurements and comparing with theoretical understandings of the ocean.</subtitle>
 
@@ -28,6 +28,42 @@
 
 	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2017/phd-opportunities.html</id>
+			<title>PhD Opportunities</title>
+			<link href="https://oceanmixing.github.io/2017/phd-opportunities.html" rel="alternate" type="text/html" title="PhD Opportunities" />
+			<updated>2017-12-21T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>The annual call for PhD opportunities at the Graduate School of the National Oceanography Centre Southampton (GSNOCS) is now open.  Deadlines in January - see opportunities in our group below.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2017/phd-opportunities.html">&lt;p&gt;&lt;img src=&quot;/images/funstuff/seagliders.jpg&quot; align=&quot;right&quot; style=&quot;padding:5px&quot; /&gt;There are several PhD opportunities available within our group - for physical oceanography, oceanography and biological oceanography using autonomous underwater vehicles, and development of new micro technology for ocean observation.&lt;/p&gt;
+
+&lt;p&gt;For more details, see &lt;a href=&quot;/opportunities/&quot;&gt;Opportunities&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="advert" />
+			
+			
+				<category term="opportunities" />
+			
+
+			<published>2017-12-21T00:00:00+00:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://oceanmixing.github.io/2017/oceans-and-climate-uos-events.html</id>
@@ -467,44 +503,6 @@
 			
 
 			<published>2017-03-20T00:00:00+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/2017/dynopo-starts.html</id>
-			<title>DynOPO cruise blog</title>
-			<link href="https://oceanmixing.github.io/2017/dynopo-starts.html" rel="alternate" type="text/html" title="DynOPO cruise blog" />
-			<updated>2017-03-17T00:00:00+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>We are setting sail on the Dynamics of the Orkney Passage Outflow process cruise.  Sailing southeast from Punta Arenas to the Antarctic peninsula archipelago, separating the Weddell and Scotia Seas.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2017/dynopo-starts.html">&lt;p&gt;You can follow our progress at a cruise blog by Stephen Griffies: &lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk&quot;&gt;https://dynopocruise2017.blogspot.co.uk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://dynopocruise2017.blogspot.co.uk&quot;&gt;&lt;img src=&quot;/images/dynopo/dynopo_cruiseblog.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="Around the web" />
-			
-			
-				<category term="dynopo" />
-			
-				<category term="fieldwork" />
-			
-
-			<published>2017-03-17T00:00:00+00:00</published>
 		</entry>
 	
 </feed>
