@@ -4,9 +4,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://oceanmixing.github.io/</id>
 	<title>Ocean Dynamics and Mixing</title>
-	<updated>2017-12-21T12:31:09+00:00</updated>
+	<updated>2018-03-28T15:30:42+01:00</updated>
 
-	<subtitle>The Ocean Dynamics and Mixing group at the University of Southampton is comprised of faculty, postdoctoral fellows and students. The focus of our group is on ocean observations with the aim of understanding these measurements and comparing with theoretical understandings of the ocean.</subtitle>
+	<subtitle>The Ocean Dynamics and Mixing group at the University of Southampton, National Oceanography Centre is comprised of faculty, postdoctoral fellows and students. The focus of our group is on ocean observations with the aim of understanding these measurements and comparing with theoretical understandings of the ocean.</subtitle>
 
 	
 		
@@ -28,6 +28,42 @@
 
 	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2018/geotalk-blog-efw.html</id>
+			<title>EGU GeoTalk blog</title>
+			<link href="https://oceanmixing.github.io/2018/geotalk-blog-efw.html" rel="alternate" type="text/html" title="EGU GeoTalk blog" />
+			<updated>2018-01-31T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>Eleanor was profiled in the GeoTalk blog of the European Geophysical Union, as the 2017 awardee of the Ocean Sciences Devision Outstanding Early Career Scientist.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2018/geotalk-blog-efw.html">&lt;p&gt;&lt;img src=&quot;/images/funstuff/geotalk-efw.jpg&quot; align=&quot;right&quot; style=&quot;padding:5px&quot; /&gt;Geotalk is a regular feature highlighting early career researchers and their work. Following the EGU General Assembly, we spoke to Eleanor Frajka-Williams, the 2017 Ocean Sciences Division Outstanding Early Career Scientists awardee. In her work, Eleanor uses real-world measurements – from ships, satellites, sea gliders and moorings – to understand how the world’s oceans work. In today’s interview we talk to her a little more about why the oceans are so fundamental to our planet’s health and some of the lesson’s she’s picked up while her career has developed.&lt;/p&gt;
+
+&lt;p&gt;Read the post here: &lt;a href=&quot;https://blogs.egu.eu/geolog/2018/01/31/geotalk-eleanor-frajka-williams-the-2017-ocean-sciences-division-outstanding-early-career-scientists-awardee/&quot;&gt;GeoTalk feature: Eleanor Frajka-Williams&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="advert" />
+			
+			
+				<category term="opportunities" />
+			
+
+			<published>2018-01-31T00:00:00+00:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://oceanmixing.github.io/2017/phd-opportunities.html</id>
@@ -463,46 +499,6 @@
 			
 
 			<published>2017-04-28T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/2017/news-theconversation-acng.html</id>
-			<title>Piece in the Conversation about Boaty McBoatface</title>
-			<link href="https://oceanmixing.github.io/2017/news-theconversation-acng.html" rel="alternate" type="text/html" title="Piece in the Conversation about Boaty McBoatface" />
-			<updated>2017-03-20T00:00:00+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>How famed submarine will help unlock the causes of deep sea warming</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2017/news-theconversation-acng.html">&lt;p&gt;Alberto wrote a piece for the Conversation while we were on the RRS James Clark Ross, crossing Drake Passage towards the Weddell Sea.&lt;/p&gt;
-
-&lt;p&gt;It has a bit about the project &lt;a href=&quot;/projects/dynopo&quot;&gt;Dynopo (Dynamics of the Orkney Passage Outflow)&lt;/a&gt;, and also about the Autosub Long Range (ALR).  These vehicles have been in development for a while, but after the internet poll to name the new polar research vessel came up with a top naming choice of “Boaty McBoatface”, the ALRs got renamed Boaty McBoatface.&lt;/p&gt;
-
-&lt;p&gt;Read more on the Conversation: &lt;a href=&quot;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&quot;&gt;https://theconversation.com/mcboatface-lead-scientist-how-famed-submarine-will-help-unlock-the-causes-of-deep-sea-warming-74797&lt;/a&gt;.&lt;/p&gt;
-</content>
-
-			
-				<category term="In the news" />
-			
-			
-				<category term="dynopo" />
-			
-				<category term="boatymcboatface" />
-			
-
-			<published>2017-03-20T00:00:00+00:00</published>
 		</entry>
 	
 </feed>
