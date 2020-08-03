@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://oceanmixing.github.io/</id>
 	<title>Ocean Dynamics and Mixing</title>
-	<updated>2019-06-24T22:18:53+01:00</updated>
+	<updated>2020-08-03T21:50:04+01:00</updated>
 
 	<subtitle>The Ocean Dynamics and Mixing group at the University of Southampton, National Oceanography Centre is comprised of faculty, postdoctoral fellows and students. The focus of our group is on ocean observations with the aim of understanding these measurements and comparing with theoretical understandings of the ocean.</subtitle>
 
@@ -28,6 +28,102 @@
 
 	<generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2019/boaty-reemerges.html</id>
+			<title>Boaty McBoatface resurfaces</title>
+			<link href="https://oceanmixing.github.io/2019/boaty-reemerges.html" rel="alternate" type="text/html" title="Boaty McBoatface resurfaces" />
+			<updated>2019-06-24T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>Our PNAS article on the DynOPO results has been published - and with it came a lot of media attention for Boaty McBoatface.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2019/boaty-reemerges.html">&lt;h2 id=&quot;boaty-news-returns&quot;&gt;Boaty news returns&lt;/h2&gt;
+
+&lt;p&gt;Read the press release here: &lt;a href=&quot;https://www.southampton.ac.uk/news/2017/06/boaty-comes-home.page&quot;&gt;Boaty McBoatface returns home with unprecedented data&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And the paper at PNAS here: &lt;a href=&quot;https://www.pnas.org/content/early/2019/06/17/1904087116&quot;&gt;Rapid mixing and exchange of deep-ocean waters in an abyssal boundary current&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;17 June 2019&lt;/strong&gt;: &lt;a href=&quot;https://www.telegraph.co.uk/news/2019/06/17/boaty-mcboatface-makes-major-climate-change-discovery-maiden/&quot;&gt;Telegraph&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/funstuff/Telegraph_news_boaty.png&quot; align=&quot;right&quot; style=&quot;padding:5px&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;18 June 2019&lt;/strong&gt;: &lt;a href=&quot;https://www.bbc.co.uk/news/science-environment-48678193&quot;&gt;BBC&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;18 June 2019&lt;/strong&gt;: &lt;a href=&quot;https://www.npr.org/2019/06/18/733759839/boaty-mcboatface-internet-adored-sub-makes-deep-sea-discovery-on-climate-change&quot;&gt;NPR&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;23 June 2019&lt;/strong&gt;: &lt;a href=&quot;https://www.thenakedscientists.com/articles/science-news/boaty-mcboatface-solves-antarctic-mystery&quot;&gt;Nake Scientists&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+
+			
+				<category term="research" />
+			
+			
+				<category term="publications" />
+			
+
+			<published>2019-06-24T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://oceanmixing.github.io/2019/sailbuoy-training.html</id>
+			<title>Sailbuoy training</title>
+			<link href="https://oceanmixing.github.io/2019/sailbuoy-training.html" rel="alternate" type="text/html" title="Sailbuoy training" />
+			<updated>2019-06-20T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Eleanor Frajka-Williams</name>
+					
+					
+						<email>eleanorfrajka@gmail.com</email>
+					
+					
+						<uri>http://eleanorfrajka.com/</uri>
+					
+				</author>
+			
+			<summary>We went to Bergen, Norway to learn to pilot a new autonomous surface vehicle, the Offshore Sensing Sailbuoy.  This vehicle will be deployed in the Labrador Sea in December 2019.</summary>
+			<content type="html" xml:base="https://oceanmixing.github.io/2019/sailbuoy-training.html">&lt;h2 id=&quot;piloting-training-with-the-sailbuoy-asv&quot;&gt;Piloting training with the Sailbuoy ASV&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/funstuff/sailbuoy_training.jpg&quot; align=&quot;right&quot; style=&quot;padding:5px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eleanor and Ilona went to Bergen, Norway to learn to pilot an autonomous surface vehicle, the Sailbuoy.  This will be used in the &lt;a href=&quot;http://terific.org&quot;&gt;TERIFIC project&lt;/a&gt; to measure surface ocean properties (salinity and temperature) and meteorological variables (wind speed and direction, air temperature and pressure).  These data will help us quantify the air-sea fluxes during winter in the subpolar gyre.&lt;/p&gt;
+
+&lt;p&gt;The vehicle was designed to have low power and data requirements; the navigation controls can last 4-5 months on the initial charged battery.  Propulsion is from the wind so the ASV sails, with direction determined by the rudder (the sail swings passively across the boat).  Data power requirements are user defined, but supplied by two of the three 10W solar panels.&lt;/p&gt;
+</content>
+
+			
+				<category term="research" />
+			
+			
+				<category term="publications" />
+			
+
+			<published>2019-06-20T00:00:00+01:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://oceanmixing.github.io/2018/geotalk-blog-efw.html</id>
@@ -427,78 +523,6 @@
 			
 
 			<published>2017-05-17T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/2017/quick-dynopo-ends.html</id>
-			<title>End of DynOPO cruise #2</title>
-			<link href="https://oceanmixing.github.io/2017/quick-dynopo-ends.html" rel="alternate" type="text/html" title="End of DynOPO cruise #2" />
-			<updated>2017-05-08T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>We made port in Montevideo on 8 May - after setting sail from Punta Arenas, Chile on 17 March!  52 days at sea.</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-dynopo-ends.html">&lt;p&gt;The Dynamics of the Orkney Passage 2017 cruise was from 17 March to 8 May, 2017.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dynopo/dynopo_cruisephoto.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Photos have been uploaded to &lt;a href=&quot;/galleries/jr16005/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
-
-</content>
-
-			
-				<category term="Photos" />
-			
-			
-				<category term="dynopo" />
-			
-
-			<published>2017-05-08T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://oceanmixing.github.io/2017/quick-egu-early-career.html</id>
-			<title>EGU Early Career award</title>
-			<link href="https://oceanmixing.github.io/2017/quick-egu-early-career.html" rel="alternate" type="text/html" title="EGU Early Career award" />
-			<updated>2017-04-28T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Eleanor Frajka-Williams</name>
-					
-					
-						<email>eleanorfrajka@gmail.com</email>
-					
-					
-						<uri>http://eleanorfrajka.com/</uri>
-					
-				</author>
-			
-			<summary>Eleanor was awarded with the Outstanding Early Career Scientist award for Ocean Sciences 2017</summary>
-			<content type="html" xml:base="https://oceanmixing.github.io/2017/quick-egu-early-career.html">&lt;p&gt;At the 2017 European Geophysical Union general assembly, Eleanor Frajka-Williams was awarded with the 
-&lt;a href=&quot;http://www.egu.eu/awards-medals/division-outstanding-ecs-award/2017/&quot;&gt;Outstanding Early Career Scientist award&lt;/a&gt; for Ocean Sciences.  Unfortunately, she was in the Southern Ocean and couldn’t be there to receive the award in person.&lt;/p&gt;
-</content>
-
-			
-				<category term="awards" />
-			
-			
-
-			<published>2017-04-28T00:00:00+01:00</published>
 		</entry>
 	
 </feed>
